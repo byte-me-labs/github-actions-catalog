@@ -2,5 +2,47 @@
 
 | Action | Latest Major | Exact Tag | Last Checked |
 |--------|-------------|----------|-------------|
-
+| `actions/scaleset` | 0 | v0.4.0 | 2026-06-29 |
+| `actions/ai-inference` | 2 | v2.1.1 | 2026-06-29 |
+| `actions/attest-sbom` | 4 | v4.1.0 | 2026-06-29 |
+| `actions/attest-build-provenance` | 4 | v4.1.1 | 2026-06-29 |
+| `actions/attest` | 4 | v4.1.1 | 2026-06-29 |
+| `actions/container-prebuilt-action` | 0 | v0.2.0 | 2026-06-29 |
+| `actions/publish-immutable-action` | 0 | v0.0.4 | 2026-06-29 |
+| `actions/action-versions` | 1 | v1.0.45 | 2026-06-29 |
+| `actions/create-github-app-token` | 3 | v3.2.0 | 2026-06-29 |
+| `actions/languageservices` | release-v0.3.58 | release-v0.3.58 | 2026-06-29 |
+| `actions/configure-pages` | 6 | v6.0.0 | 2026-06-29 |
+| `actions/go-dependency-submission` | 2 | v2.0.3 | 2026-06-29 |
+| `actions/runner-container-hooks` | 0 | v0.8.1 | 2026-06-29 |
+| `actions/upload-pages-artifact` | 5 | v5.0.0 | 2026-06-29 |
+| `actions/dependency-review-action` | 5 | v5.0.0 | 2026-06-29 |
+| `actions/add-to-project` | 2 | v2.0.0 | 2026-06-29 |
+| `actions/jekyll-build-pages` | 1 | v1.0.13 | 2026-06-29 |
+| `actions/deploy-pages` | 5 | v5.0.0 | 2026-06-29 |
+| `actions/alpine_nodejs` | 24 | v24.18.0 | 2026-06-29 |
+| `actions/actions-sync` | 202606241747 | v202606241747 | 2026-06-29 |
+| `actions/go-versions` | 1 | 1.26.4-26891772857 | 2026-06-29 |
+| `actions/node-versions` | 26 | 26.4.0-28176665805 | 2026-06-29 |
+| `actions/python-versions` | 3 | 3.15.0-beta.3-28071004033 | 2026-06-29 |
+| `actions/delete-package-versions` | 5 | v5.0.0 | 2026-06-29 |
+| `actions/actions-runner-controller` | gha-runner-scale-set-0.14.2 | gha-runner-scale-set-0.14.2 | 2026-06-29 |
+| `actions/cache` | 6 | v6.1.0 | 2026-06-29 |
+| `actions/javascript-action` | 1 | v1.0.1 | 2026-06-29 |
+| `actions/github-script` | 9 | v9.0.0 | 2026-06-29 |
+| `actions/hello-world-docker-action` | 2 | v2 | 2026-06-29 |
+| `actions/stale` | 10 | v10.3.0 | 2026-06-29 |
+| `actions/hello-world-javascript-action` | 1 | v1.1 | 2026-06-29 |
+| `actions/first-interaction` | 3 | v3.1.0 | 2026-06-29 |
+| `actions/checkout` | 7 | v7.0.0 | 2026-06-29 |
+| `actions/setup-java` | 5 | v5.4.0 | 2026-06-29 |
+| `actions/download-artifact` | 8 | v8.0.1 | 2026-06-29 |
+| `actions/upload-artifact` | 7 | v7.0.1 | 2026-06-29 |
+| `actions/setup-python` | 6 | v6.3.0 | 2026-06-29 |
+| `actions/setup-dotnet` | 5 | v5.4.0 | 2026-06-29 |
+| `actions/setup-go` | 6 | v6.5.0 | 2026-06-29 |
+| `actions/runner-images` | win25/20260623.176 | win25/20260623.176 | 2026-06-29 |
+| `actions/setup-node` | 6 | v6.4.0 | 2026-06-29 |
+| `actions/runner` | 2 | v2.335.1 | 2026-06-29 |
+| `actions/labeler` | 6 | v6.1.0 | 2026-06-29 |
 <!-- END -->
