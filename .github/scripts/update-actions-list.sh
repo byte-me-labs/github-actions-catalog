@@ -7,7 +7,7 @@
 #
 #   <skill-dir>/actions-versions.md
 #
-# Prerequisites: `gh` authenticated and `jq` installed.
+# Prerequisites: `gh` authenticated (GH_TOKEN or gh auth login).
 #
 # Usage:
 #   ./update-actions-list.sh [--dry-run] [--skill-dir <path>]
@@ -33,16 +33,55 @@ TODAY=$(date +%Y-%m-%d)
 # ---------------------------------------------------------------------------
 echo "==> Discovering repos from github.com/actions/ ..."
 
-ALL_ACTIONS=()
-while IFS=$'\t' read -r full_name; do
-  [[ -z "$full_name" ]] && continue
-  ALL_ACTIONS+=("$full_name")
-done < <(
-  gh api --paginate "orgs/actions/repos?sort=stars&per_page=100" \
-    --jq '.[] | select(.archived==false) | .full_name' 2>/dev/null
-)
+# gh api needs auth — show status for debugging
+gh auth status 2>&1 || true
 
-echo "==> Found ${#ALL_ACTIONS[@]} actions total."
+ALL_ACTIONS=()
+
+# Write API output to a temp file first so errors are visible
+TMP_JSON=$(mktemp)
+trap 'rm -f "$TMP_JSON"' EXIT
+
+if gh api --paginate "orgs/actions/repos?sort=stars&per_page=100" > "$TMP_JSON" 2>&1; then
+  while IFS= read -r full_name; do
+    [[ -z "$full_name" ]] && continue
+    ALL_ACTIONS+=("$full_name")
+  done < <(jq -r '.[] | select(.archived==false) | .full_name' "$TMP_JSON")
+else
+  echo "ERROR: gh api failed (see above). Trying fallback list..."
+  # Fallback: hardcoded list of known actions/*
+  ALL_ACTIONS=(
+    actions/checkout
+    actions/setup-go
+    actions/setup-node
+    actions/setup-python
+    actions/setup-java
+    actions/setup-dotnet
+    actions/upload-artifact
+    actions/download-artifact
+    actions/cache
+    actions/create-release
+    actions/stale
+    actions/labeler
+    actions/first-interaction
+    actions/github-script
+    actions/setup-elixir
+    actions/setup-haskell
+    actions/setup-ruby
+    actions/setup-php
+    actions/delete-package-versions
+    actions/runner-images
+    actions/runner
+    actions/toolkit
+    actions/typescript-action
+    actions/javascript-action
+    actions/docker-action
+    actions/hello-world-docker-action
+    actions/hello-world-javascript-action
+  )
+fi
+
+echo "==> Tracking ${#ALL_ACTIONS[@]} actions."
 
 # ---------------------------------------------------------------------------
 # 2. Fetch latest release tag for each action
@@ -62,7 +101,6 @@ for action in "${ALL_ACTIONS[@]}"; do
     continue
   fi
 
-  # Extract major version number: v4.2.3 → 4
   major=$(echo "$tag" | sed -nE 's/^v?([0-9]+).*$/\1/p')
   [[ -z "$major" ]] && major="$tag"
 
