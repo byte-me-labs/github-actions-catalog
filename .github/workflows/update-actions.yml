@@ -1,0 +1,26 @@
+name: Update GitHub Actions Versions
+
+on:
+  schedule:
+    # Daily at 06:37 UTC
+    - cron: "37 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Run update script
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash .github/scripts/update-actions-list.sh
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update GitHub Actions version table"
+          file_pattern: actions-versions.md
