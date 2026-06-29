@@ -1,0 +1,50 @@
+name: Update GitHub Actions Versions
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "37 6 * * 1"
+  workflow_dispatch:  # allow manual trigger
+  push:
+    paths:
+      - ".github/scripts/update-actions-list.sh"
+      - ".github/workflows/update-actions.yml"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run update script
+        run: bash .github/scripts/update-actions-list.sh
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet actions-versions.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No version changes — nothing to do."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git diff actions-versions.md
+          fi
+
+      - name: Create Pull Request
+        if: steps.diff.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update GitHub Actions version table"
+          title: "chore: update GitHub Actions version table"
+          body: |
+            Automated update of the GitHub Actions latest-version table.
+
+            Ran `update-actions-list.sh` — detected new releases.
+          branch: chore/update-actions-table
+          delete-branch: true
