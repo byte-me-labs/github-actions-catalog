@@ -1,1 +1,7416 @@
-{"updated":"2026-07-03","total":0,"actions":[]}
+{
+  "updated": "2026-07-03",
+  "total": 500,
+  "actions": [
+    {
+      "action": "JamesIves/github-pages-deploy-action",
+      "stars": 4585,
+      "desc": "🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.",
+      "topics": [
+        "action",
+        "actions",
+        "cicd",
+        "continuous-delivery",
+        "continuous-deployment",
+        "continuous-integration",
+        "deploy",
+        "deployer",
+        "deployment",
+        "gh-pages",
+        "ghpages",
+        "github-action",
+        "github-actions",
+        "github-enterprise",
+        "github-pages",
+        "hacktoberfest",
+        "static",
+        "workflow",
+        "workflow-configuration",
+        "workflow-runs"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeterminateSystems/nix-installer",
+      "stars": 3628,
+      "desc": "Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.",
+      "topics": [
+        "docker",
+        "fedora",
+        "installer",
+        "linux",
+        "macos",
+        "nix",
+        "ostree",
+        "podman",
+        "selinux",
+        "silverblue",
+        "wsl",
+        "wsl2"
+      ],
+      "lang": "Rust",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Barre/ZeroFS",
+      "stars": 2655,
+      "desc": "ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD. ",
+      "topics": [
+        "9p",
+        "9p2000",
+        "csi-driver",
+        "nbd",
+        "nfs",
+        "nfs-server",
+        "plan9",
+        "s3fs"
+      ],
+      "lang": "Rust",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EndBug/add-and-commit",
+      "stars": 1280,
+      "desc": ":octocat: Automatically commit changes made in your workflow run directly to your repo",
+      "topics": [
+        "actions",
+        "automation",
+        "ci",
+        "collaborate",
+        "commit",
+        "git",
+        "git-add",
+        "git-commit",
+        "git-rm",
+        "github",
+        "github-actions",
+        "hacktoberfest",
+        "lint",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EnricoMi/publish-unit-test-result-action",
+      "stars": 745,
+      "desc": "GitHub Action to publish unit test results on GitHub",
+      "topics": [
+        "github-actions",
+        "reporting",
+        "testing"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Flank/flank",
+      "stars": 696,
+      "desc": ":speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab",
+      "topics": [
+        "android",
+        "earlgrey",
+        "espresso",
+        "firebase",
+        "flank",
+        "gcloud",
+        "gradle",
+        "instrumentation",
+        "ios",
+        "parallel",
+        "test",
+        "xcuitest"
+      ],
+      "lang": "Kotlin",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JS-DevTools/npm-publish",
+      "stars": 667,
+      "desc": "GitHub Action to publish to NPM",
+      "topics": [
+        "github-action",
+        "javascript",
+        "nodejs",
+        "npm",
+        "npm-publish",
+        "typescript",
+        "version-bump",
+        "version-checker"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "10up/action-wordpress-plugin-deploy",
+      "stars": 653,
+      "desc": "Deploy your plugin to the WordPress.org repository using GitHub Actions",
+      "topics": [
+        "github-actions",
+        "hacktoberfest",
+        "wordpress",
+        "wordpress-deployment"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CopilotKit/aimock",
+      "stars": 640,
+      "desc": "Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies.",
+      "topics": [
+        "ai-testing",
+        "aimock",
+        "llm",
+        "mcp",
+        "mock-server",
+        "openai"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "8398a7/action-slack",
+      "stars": 620,
+      "desc": "Provides the function of slack notification to GitHub Actions.",
+      "topics": [
+        "github-actions",
+        "slack",
+        "typescript"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "KanHarI/gpt-commit-summarizer",
+      "stars": 563,
+      "desc": "",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Auriti-Labs/geo-optimizer-skill",
+      "stars": 557,
+      "desc": "Open-source Answer Engine Optimization (AEO) \u0026 Generative Engine Optimization (GEO) toolkit — audit, optimize \u0026 track whether ChatGPT, Perplexity, Gemini \u0026 Google AI Overviews cite your site. AI SEO / LLM SEO. CLI, Python, MCP, Astro.",
+      "topics": [
+        "aeo",
+        "ai-search-optimization",
+        "ai-seo",
+        "ai-visibility",
+        "answer-engine-optimization",
+        "astro",
+        "chatgpt",
+        "citation-tracking",
+        "claude",
+        "cli",
+        "gemini",
+        "generative-engine-optimization",
+        "geo",
+        "llm-seo",
+        "llms-txt",
+        "mcp",
+        "perplexity",
+        "python",
+        "schema-markup",
+        "seo"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ArtiomTr/jest-coverage-report-action",
+      "stars": 545,
+      "desc": "Track your code coverage in every pull request.",
+      "topics": [
+        "action",
+        "actions",
+        "annotations",
+        "coverage-reporters",
+        "github-action",
+        "github-actions",
+        "github-actions-ci",
+        "jest",
+        "threshold"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeterminateSystems/magic-nix-cache-action",
+      "stars": 543,
+      "desc": " Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions. ",
+      "topics": [
+        "caching",
+        "continuous-integration",
+        "nix"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/login",
+      "stars": 530,
+      "desc": "Connect to Azure",
+      "topics": [
+        "azure",
+        "github-actions",
+        "login",
+        "oidc"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Ilshidur/action-discord",
+      "stars": 464,
+      "desc": "🚀 GitHub Action that sends a Discord message.",
+      "topics": [
+        "github-action",
+        "github-actions"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Burnett01/rsync-deployments",
+      "stars": 440,
+      "desc": "GitHub Action for deploying code via rsync over ssh securely - used by 5k+ workflows!",
+      "topics": [
+        "action",
+        "actions",
+        "alpine",
+        "continuous-delivery",
+        "continuous-deployment",
+        "deploy",
+        "deployment",
+        "devops",
+        "docker",
+        "github",
+        "github-action",
+        "github-actions",
+        "immutability",
+        "passphrase",
+        "rsync",
+        "ssh",
+        "ssh-key",
+        "zero-dependency"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeterminateSystems/update-flake-lock",
+      "stars": 395,
+      "desc": "Automatically refresh your Nix Flakes.",
+      "topics": [
+        "nix",
+        "nix-flake"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CodelyTV/pr-size-labeler",
+      "stars": 394,
+      "desc": "🏷 Visualize and optionally limit the size of your Pull Requests",
+      "topics": [
+        "action",
+        "automation",
+        "codely",
+        "codelytv",
+        "github",
+        "github-action",
+        "github-actions",
+        "pull-request",
+        "pull-request-action",
+        "pull-request-management",
+        "pull-requests"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BetaHuhn/repo-file-sync-action",
+      "stars": 363,
+      "desc": "🔄 GitHub Action to keep files like Action workflows or entire directories in sync between multiple repositories.",
+      "topics": [
+        "file-sync",
+        "github-action-workflow-sync",
+        "github-actions",
+        "github-workflow",
+        "sync",
+        "sync-action",
+        "workflow-files",
+        "workflow-sync"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GitGuardian/ggshield-action",
+      "stars": 347,
+      "desc": "GitGuardian Shield GitHub Action - Find exposed credentials in your commits",
+      "topics": [
+        "ci",
+        "devops",
+        "devsecops",
+        "gitguardian",
+        "github-actions",
+        "secrets-detection",
+        "security-tools"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/webapps-deploy",
+      "stars": 333,
+      "desc": "Enable GitHub developers to deploy to Azure WebApps using GitHub Actions",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DevSecTop/TF-via-PR-Comments",
+      "stars": 331,
+      "desc": "Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.",
+      "topics": [
+        "automation",
+        "aws",
+        "cicd-pipeline",
+        "devops",
+        "github-actions",
+        "infrastructure-as-code",
+        "opentofu",
+        "platform-engineering",
+        "terraform"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "1Password/load-secrets-action",
+      "stars": 329,
+      "desc": "Load secrets from 1Password into your GitHub Actions jobs",
+      "topics": [
+        "1password",
+        "1password-connect",
+        "github-actions",
+        "secrets-management",
+        "service-accounts"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AndreasAugustin/actions-template-sync",
+      "stars": 324,
+      "desc": ":octocat: Github action for syncing other repositories (templates) with current repository. Any git provider like GitHub (enterprise), GitLab, Gittea,.. are supported for the source repository ",
+      "topics": [
+        "action",
+        "actions",
+        "ci-cd",
+        "continuous-integration",
+        "gitea",
+        "github",
+        "github-action",
+        "github-actions",
+        "gitlab",
+        "repository",
+        "sync",
+        "syncronization",
+        "templates"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Borales/actions-yarn",
+      "stars": 315,
+      "desc": "GitHub Action for interacting with yarn",
+      "topics": [
+        "actions",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JetBrains/qodana-action",
+      "stars": 302,
+      "desc": "⚙️ Scan your Go, Java, Kotlin, PHP, Python, JavaScript, TypeScript, .NET projects at GitHub with Qodana. This repository contains Qodana for Azure, GitHub, CircleCI and Gradle",
+      "topics": [
+        "actions",
+        "azure-extensions",
+        "azure-pipelines",
+        "code-quality",
+        "code-review",
+        "code-scanning",
+        "devsecops",
+        "dotnet",
+        "github-actions",
+        "go",
+        "java",
+        "javascript",
+        "kotlin",
+        "php",
+        "python",
+        "qodana",
+        "sarif",
+        "static-analysis",
+        "static-code-analysis",
+        "typescript"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JasonEtco/create-an-issue",
+      "stars": 299,
+      "desc": "A GitHub Action for creating a new issue from a template file.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Agent-Threat-Rule/agent-threat-rules",
+      "stars": 293,
+      "desc": "Open detection standard -- like Sigma, but for AI agents. 425 rules, shipped in Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H. 97.1% recall on NVIDIA garak. NIST OSCAL Path 1.",
+      "topics": [
+        "agent-security",
+        "agent-threat-rules",
+        "ai-security",
+        "garak",
+        "llm-security",
+        "mcp-security",
+        "owasp",
+        "owasp-agentic",
+        "prompt-injection",
+        "sigma-rules",
+        "threat-detection"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/k8s-deploy",
+      "stars": 287,
+      "desc": "GitHub Action for deploying to Kubernetes clusters",
+      "topics": [
+        "action",
+        "actions",
+        "azure",
+        "deploy",
+        "github-action",
+        "github-actions",
+        "k8s",
+        "kubernetes"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DenverCoder1/github-readme-youtube-cards",
+      "stars": 279,
+      "desc": "Workflow for displaying recent YouTube videos as SVG cards in your readme",
+      "topics": [
+        "dynamic",
+        "github",
+        "hacktoberfest",
+        "profile-readme",
+        "readme",
+        "svg",
+        "workflows",
+        "youtube"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Apple-Actions/import-codesign-certs",
+      "stars": 276,
+      "desc": "GitHub Action for Importing Code-signing Certificates into a Keychain",
+      "topics": [
+        "actions",
+        "apple",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HaaLeo/publish-vscode-extension",
+      "stars": 261,
+      "desc": "GitHub action to publish your VS Code Extension to the Open VSX Registry or Visual Studio Marketplace.",
+      "topics": [
+        "deployment",
+        "github-actions",
+        "open-vsx",
+        "openvsx",
+        "publishing",
+        "visual-studio-code-extension",
+        "visual-studio-marketplace",
+        "vscode"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JasonEtco/is-sponsor-label-action",
+      "stars": 255,
+      "desc": "💖🔖 A GitHub Action that labels issues/PRs if the author sponsors the owner of the repo",
+      "topics": [
+        "github-actions",
+        "sponsors"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "3ru/gpt-translate",
+      "stars": 243,
+      "desc": "💬Translate Files into Any Languages with AI",
+      "topics": [
+        "actions",
+        "gitbook",
+        "github-actions",
+        "i18n",
+        "language",
+        "openai",
+        "translation"
+      ],
+      "lang": "MDX",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeterminateSystems/nix-installer-action",
+      "stars": 240,
+      "desc": "The Github Action for the Determinate Nix Installer",
+      "topics": [
+        "actions",
+        "flakes",
+        "install",
+        "nix"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GeekyEggo/delete-artifact",
+      "stars": 232,
+      "desc": "A GitHub Action to deletes artifacts within the workflow run.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeLaGuardo/setup-clojure",
+      "stars": 222,
+      "desc": "GitHub Action to provision clojure's most popular build tools for Linux, Mac OS X and Windows.",
+      "topics": [
+        "boot-clj",
+        "clojure",
+        "clojure-cli",
+        "github-action",
+        "leiningen"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/container-scan",
+      "stars": 220,
+      "desc": "A GitHub action to help you scan your docker image for vulnerabilities",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Jimver/cuda-toolkit",
+      "stars": 206,
+      "desc": "GitHub Action to install CUDA",
+      "topics": [
+        "action",
+        "cuda",
+        "cuda-toolkit",
+        "github-actions",
+        "nvidia",
+        "nvidia-cuda"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Khan/pull-request-comment-trigger",
+      "stars": 206,
+      "desc": "A github action for detecting a \"trigger\" in a pull request description or comment",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AbsaOSS/k3d-action",
+      "stars": 200,
+      "desc": "A GitHub Action to run lightweight ephemeral Kubernetes clusters during workflow.  Fundamental advantage of this action is a full customization of embedded k3s clusters. In addition, it provides a private image registry and multi-cluster support.",
+      "topics": [
+        "action",
+        "cluster",
+        "containers",
+        "github-actions",
+        "k3d",
+        "k3s",
+        "kind",
+        "kubernetes",
+        "rancher"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Ilshidur/action-slack",
+      "stars": 195,
+      "desc": "🚀 (Unmaintained) GitHub Action that sends a Slack notification.",
+      "topics": [
+        "github-action",
+        "github-actions",
+        "slack"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BetaHuhn/deploy-to-vercel-action",
+      "stars": 190,
+      "desc": "🎬▲ Deploy your project to Vercel using GitHub Actions. Supports PR previews and GitHub deployments.",
+      "topics": [
+        "github-actions",
+        "github-actions-ci",
+        "github-deployment",
+        "pr-preview",
+        "vercel",
+        "vercel-cli",
+        "workflow"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EmbarkStudios/cargo-deny-action",
+      "stars": 189,
+      "desc": "❌ GitHub Action for cargo-deny 🦀",
+      "topics": [
+        "cargo",
+        "cargo-deny",
+        "dependency-manager",
+        "github-actions",
+        "hacktoberfest",
+        "rust",
+        "rust-lang"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FranzDiebold/github-env-vars-action",
+      "stars": 188,
+      "desc": ":octocat: 🚀 GitHub Action for Environment Variables",
+      "topics": [
+        "cicd",
+        "deployment",
+        "environment-variables",
+        "github-action",
+        "github-actions",
+        "slug",
+        "workflow"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/setup-helm",
+      "stars": 187,
+      "desc": "Github Action for installing Helm",
+      "topics": [
+        "action",
+        "actions",
+        "azure",
+        "github-action",
+        "github-actions",
+        "helm",
+        "k8s",
+        "kubernetes",
+        "setup"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DavidAnson/markdownlint-cli2-action",
+      "stars": 187,
+      "desc": "A GitHub Action to run the markdownlint-cli2 tool for linting Markdown/CommonMark files with the markdownlint library",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JackMcKew/pyinstaller-action-windows",
+      "stars": 184,
+      "desc": "Github Action for building executables with Pyinstaller",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/functions-action",
+      "stars": 182,
+      "desc": "Enable GitHub developers to deploy to Azure Function Apps using GitHub Actions",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BigWigsMods/packager",
+      "stars": 182,
+      "desc": "Generate an addon zip file from a Git, SVN, or Mercurial checkout.",
+      "topics": [
+        "addon",
+        "curseforge",
+        "wago",
+        "wow",
+        "wowinterface"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JasonEtco/upload-to-release",
+      "stars": 177,
+      "desc": "A GitHub Action that uploads a file to a new release.",
+      "topics": [
+        "action",
+        "github-actions",
+        "release-automation",
+        "workflow"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Cyclenerd/hcloud-github-runner",
+      "stars": 170,
+      "desc": "🖥️ On-demand self-hosted GitHub Actions Runner on Hetzner Cloud",
+      "topics": [
+        "fedora",
+        "github-actions",
+        "github-runner",
+        "github-runners",
+        "github-self-hosted-runner",
+        "hetzner",
+        "hetzner-cloud",
+        "podman",
+        "rocky-linux",
+        "rockylinux",
+        "self-hosted",
+        "self-hosted-runner",
+        "self-hosted-runners"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BaileyJM02/markdown-to-pdf",
+      "stars": 169,
+      "desc": "A GitHub Action to make PDF and HTML files from Markdown",
+      "topics": [
+        "github-actions",
+        "html",
+        "javascipt",
+        "javascript",
+        "markdown",
+        "nodejs",
+        "pdf"
+      ],
+      "lang": "CSS",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "KSXGitHub/github-actions-deploy-aur",
+      "stars": 169,
+      "desc": "GitHub Actions to publish AUR package",
+      "topics": [
+        "actions",
+        "archlinux",
+        "aur",
+        "ci",
+        "delivery",
+        "publishing"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/static-web-apps-deploy",
+      "stars": 167,
+      "desc": "Enable GitHub developers to deploy to Azure Static Web Apps using GitHub Actions",
+      "topics": [],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/cli",
+      "stars": 166,
+      "desc": "Automate your GitHub workflows using Azure CLI scripts",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Addepar/RedFlag",
+      "stars": 162,
+      "desc": "RedFlag uses AI to identify high-risk code changes. Run it in batch mode for release candidate testing or in CI pipelines to flag PRs and add reviewers. RedFlag's flexible configuration makes it valuable for any team.",
+      "topics": [
+        "ai",
+        "ci-cd",
+        "code-review",
+        "security",
+        "security-audit",
+        "security-automation",
+        "security-tools"
+      ],
+      "lang": "Jinja",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/setup-kubectl",
+      "stars": 157,
+      "desc": "GitHub Action for installing Kubectl",
+      "topics": [
+        "action",
+        "actions",
+        "azure",
+        "github-action",
+        "github-actions",
+        "k8s",
+        "kubectl",
+        "kubernetes",
+        "setup"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DoozyX/clang-format-lint-action",
+      "stars": 146,
+      "desc": "This action checks if the source code matches the .clang-format file.",
+      "topics": [
+        "actions",
+        "ci",
+        "clang-format",
+        "cpp",
+        "github-action",
+        "github-actions",
+        "hacktoberfest",
+        "lint",
+        "linter"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JRubics/poetry-publish",
+      "stars": 146,
+      "desc": "An action to build and publish python package to pypi (https://pypi.org/) using poetry (https://github.com/sdispater/poetry)",
+      "topics": [
+        "github-actions",
+        "hacktoberfest",
+        "marketplace",
+        "poetry",
+        "pyhon",
+        "pypi"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GabrielBB/xvfb-action",
+      "stars": 144,
+      "desc": "Run your tests headlessly ❌🖥️",
+      "topics": [
+        "action",
+        "deprecated-repo",
+        "github-actions",
+        "xvfb"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FedericoCarboni/setup-ffmpeg",
+      "stars": 142,
+      "desc": "Set up your GitHub Actions workflow with ffmpeg",
+      "topics": [
+        "ffmpeg",
+        "ffprobe",
+        "github-action",
+        "github-actions"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "10up/action-wordpress-plugin-asset-update",
+      "stars": 136,
+      "desc": "Update your plugin readme and assets in the WordPress.org repository outside of new releases",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/sql-action",
+      "stars": 134,
+      "desc": "🚀 Deploy changes to your SQL database easily with SQL projects or SQL scripts and sql-action for GitHub workflows",
+      "topics": [
+        "azure",
+        "azure-sql",
+        "azure-sql-database",
+        "github-actions",
+        "sql-server"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GeekMasher/advanced-security-compliance",
+      "stars": 134,
+      "desc": "GitHub Advance Security Compliance Action",
+      "topics": [
+        "code-scanning",
+        "devsecops",
+        "ghas",
+        "security",
+        "security-automation"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Harmon758/postgresql-action",
+      "stars": 130,
+      "desc": "GitHub Action to setup a PostgreSQL database",
+      "topics": [
+        "action",
+        "actions",
+        "github",
+        "github-action",
+        "github-actions",
+        "postgresql",
+        "postgresql-database"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/trusted-signing-action",
+      "stars": 129,
+      "desc": "",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "8BitJonny/gh-get-current-pr",
+      "stars": 128,
+      "desc": "Github Action for getting all the details about the current Pull Request if the commit is part of one",
+      "topics": [
+        "automation",
+        "ci-cd",
+        "github-action",
+        "github-actions",
+        "javascript",
+        "pull-requests",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Actions-R-Us/actions-tagger",
+      "stars": 126,
+      "desc": "A meta-action to keep your action versions up-to-date :rocket:",
+      "topics": [
+        "actions",
+        "cross-platform",
+        "github-actions",
+        "typescript",
+        "versioning"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Decathlon/release-notes-generator-action",
+      "stars": 125,
+      "desc": "Action to auto generate a release note based on your events",
+      "topics": [
+        "github-actions",
+        "release-note",
+        "spring"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BryanSchuetz/jekyll-deploy-gh-pages",
+      "stars": 121,
+      "desc": "A GitHub Action for building a Jekyll site (with custom plugins) and deploying it back to your gh-pages branch.",
+      "topics": [
+        "actions",
+        "github-actions",
+        "github-pages",
+        "jekyll"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CycodeLabs/cimon-action",
+      "stars": 121,
+      "desc": "Runtime Security Solution for your CI/CD Pipeline",
+      "topics": [
+        "cicd",
+        "ebpf",
+        "github-actions",
+        "hardening",
+        "linux",
+        "security",
+        "security-hardening",
+        "supply-chain-security"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/docker-login",
+      "stars": 117,
+      "desc": "GitHub action to log in to Azure Container Registry (ACR) or any private container registry",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EndBug/version-check",
+      "stars": 108,
+      "desc": ":octocat: An action that allows you to check whether your npm package version has been updated",
+      "topics": [
+        "actions",
+        "collaborate",
+        "github",
+        "hacktoberfest",
+        "nodejs",
+        "npm",
+        "package",
+        "semver",
+        "typescript",
+        "version",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Decathlon/wiki-page-creator-action",
+      "stars": 106,
+      "desc": "Create a GitHub wiki page based on the provided markdown file",
+      "topics": [
+        "github-actions",
+        "wiki"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JasonN3/build-container-installer",
+      "stars": 106,
+      "desc": "Creates an ISO for installing a container image as an OS",
+      "topics": [],
+      "lang": "Makefile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Andrew-Chen-Wang/github-wiki-action",
+      "stars": 104,
+      "desc": "📖 GitHub Action to sync a folder to the GitHub wiki",
+      "topics": [
+        "actions",
+        "bash",
+        "github-action",
+        "github-actions",
+        "github-wiki",
+        "wiki"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GsActions/commit-message-checker",
+      "stars": 104,
+      "desc": "GitHub Action that checks commit messages of pushes and pull request against a regex pattern",
+      "topics": [
+        "action",
+        "actions",
+        "github-actions",
+        "typescript"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JasonEtco/build-and-tag-action",
+      "stars": 104,
+      "desc": "📦🔖 A GitHub Action for publishing JavaScript Actions",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JuliaRegistries/TagBot",
+      "stars": 104,
+      "desc": "Creates tags, releases, and changelogs for your Julia packages when they're registered",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/k8s-set-context",
+      "stars": 103,
+      "desc": "GitHub Action for setting context and retrieving Kubeconfig before deploying to Kubernetes clusters",
+      "topics": [
+        "action",
+        "actions",
+        "azure",
+        "github-action",
+        "github-actions",
+        "k8s",
+        "kubeconfig",
+        "kubernetes"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DenverCoder1/doxygen-github-pages-action",
+      "stars": 103,
+      "desc": "GitHub Action for deploying Doxygen documentation to a GitHub pages branch",
+      "topics": [
+        "actions",
+        "actionshackathon21",
+        "deployment-automation",
+        "doxygen",
+        "github-workflows",
+        "hacktoberfest"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JamesIves/github-sponsors-readme-action",
+      "stars": 101,
+      "desc": "❤️ This GitHub Action will automatically add your GitHub Sponsors to your README. It can be configured in multiple ways allowing you to display and breakdown your sponsors by price tier with fallbacks.",
+      "topics": [
+        "action",
+        "actions",
+        "breakdown-sponsors",
+        "github-actions",
+        "github-sponsors",
+        "hacktoberfest",
+        "hacktoberfest2023",
+        "readme",
+        "sponsor",
+        "sponsors",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Decathlon/pull-request-labeler-action",
+      "stars": 99,
+      "desc": ":zap: Github action to label your pull requests auto-magically :sparkles:(using committed files)",
+      "topics": [
+        "github-actions",
+        "labels",
+        "project-management",
+        "projects",
+        "typescript"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeNA/unity-meta-check",
+      "stars": 98,
+      "desc": "A tool to check problems about meta files of Unity",
+      "topics": [
+        "autofix",
+        "ci",
+        "testing",
+        "tool",
+        "unity"
+      ],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CasperWA/push-protected",
+      "stars": 96,
+      "desc": "GitHub Action to push newly created commit(s) to a protected branch, waiting for status checks to succeed",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Apple-Actions/download-provisioning-profiles",
+      "stars": 95,
+      "desc": "Github Action for downloading provisioning profiles from Apple AppStore Connect",
+      "topics": [
+        "actions",
+        "apple",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BobAnkh/auto-generate-changelog",
+      "stars": 94,
+      "desc": "A Github Action to generate CHANGELOG automatically according to conventional commits. Feel free to contribute!",
+      "topics": [
+        "changelog-generator",
+        "continuous-integration",
+        "contributions-welcome",
+        "dockerfile",
+        "github-actions",
+        "github-api",
+        "python",
+        "utilities"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/container-apps-deploy-action",
+      "stars": 93,
+      "desc": "GitHub Action for building and deploying Azure Container Apps",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/arm-deploy",
+      "stars": 92,
+      "desc": "ARM action to deploy an Azure Resource Manager (ARM) template to all the deployment scopes",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Gr1N/setup-poetry",
+      "stars": 91,
+      "desc": "Set up your GitHub Actions workflow with a specific version of Poetry",
+      "topics": [
+        "actions",
+        "github-actions",
+        "poetry",
+        "python",
+        "setup-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "K-Phoen/semver-release-action",
+      "stars": 91,
+      "desc": "GitHub Action to automatically create SemVer compliant releases based on PR labels.",
+      "topics": [
+        "action",
+        "github",
+        "github-actions",
+        "release",
+        "semver"
+      ],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JulienKode/pull-request-name-linter-action",
+      "stars": 87,
+      "desc": "⚡️ Lint pull request name with commit lint. This is useful if you squash merge your pull requests ⚡️",
+      "topics": [
+        "actions",
+        "best-practice",
+        "best-practices",
+        "ci",
+        "commitlint",
+        "continuous-integration",
+        "github",
+        "github-actions",
+        "linter",
+        "productivity",
+        "pull-requests",
+        "squash",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DXHeroes/dx-scanner",
+      "stars": 84,
+      "desc": "CLI tool that allows you to measure quality of a team work and an app based on your source code.",
+      "topics": [
+        "best-practices",
+        "ci",
+        "cli",
+        "code-review",
+        "command-line-tool",
+        "developer-experience",
+        "developerexperience",
+        "dx-recommendations",
+        "dx-scanner",
+        "dxscanner",
+        "java",
+        "javascript",
+        "practices",
+        "ruby",
+        "typescript"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeterminateSystems/flake-checker-action",
+      "stars": 84,
+      "desc": "A GitHub Action that performs health checks for your Nix flake.lock files",
+      "topics": [
+        "code-quality",
+        "dependency-management",
+        "flakes",
+        "nix",
+        "nixos"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JakePartusch/psi-action",
+      "stars": 84,
+      "desc": "A GitHub action that utilizes Google's Page Speed Insights to generate a performance report",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/pipelines",
+      "stars": 83,
+      "desc": "Enable GitHub developers to trigger Azure Pipelines from a GitHub Actions workflow",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JetBrains/writerside-github-action",
+      "stars": 83,
+      "desc": "Writerside curated GitHub Action used to generate the documentation website using JetBrains Writerside",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Jtalk/url-health-check-action",
+      "stars": 82,
+      "desc": "A cURL-based health check with build-in retry ",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CaravanaCloud/cloud-janitor",
+      "stars": 81,
+      "desc": "Automating cleanup, maintenance and troubleshooting tasks in Cloud Computing",
+      "topics": [
+        "aws",
+        "devops",
+        "java",
+        "quarkus"
+      ],
+      "lang": "Java",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ArseniiBrazhnyk/Veritensor",
+      "stars": 80,
+      "desc": "The Anti-Virus for AI Artifacts \u0026 RAG Firewall. A static analysis tool scanning Models and Notebooks for RCE, Datasets and RAG docs for Data Poisoning, PII, and Prompt Injections. Secure your AI Supply Chain.",
+      "topics": [
+        "ai-security",
+        "ci-cd",
+        "cosign",
+        "data-security",
+        "devsecops",
+        "generative-ai",
+        "huggingface",
+        "jupyter-notebook",
+        "llm-security",
+        "machine-learning-security",
+        "mlops",
+        "pickle-security",
+        "pii-detection",
+        "prompt-injection",
+        "pytorch",
+        "rag-security",
+        "sbom",
+        "sigstore",
+        "static-analysis",
+        "supply-chain-security"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BogDAAAMN/deta-deploy-action",
+      "stars": 80,
+      "desc": "Simple GitHub Action to deploy current repo to a Deta Micro",
+      "topics": [
+        "action",
+        "cd",
+        "ci",
+        "deploy",
+        "deployment",
+        "deta",
+        "github-actions"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AppiumTestDistribution/AppClaw",
+      "stars": 79,
+      "desc": "AI-powered mobile automation agent — describe what you want in plain English, AppClaw reads the screen, reasons, and acts. LLM-agnostic, open-source, zero telemetry.",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "android",
+        "appium",
+        "appium-mcp",
+        "cloud",
+        "ios",
+        "llm",
+        "mcp",
+        "mobile-agent",
+        "mobile-testing",
+        "parallel",
+        "parallelism",
+        "yaml-flow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "1Password/install-cli-action",
+      "stars": 78,
+      "desc": "Install 1Password CLI into your GitHub Actions jobs.",
+      "topics": [
+        "1password",
+        "1password-cli",
+        "1password-connect",
+        "github-actions",
+        "secrets-management",
+        "service-accounts"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Gamesight/slack-workflow-status",
+      "stars": 78,
+      "desc": "Github action for sending workflow run results to Slack",
+      "topics": [
+        "actions",
+        "job",
+        "notifications",
+        "reporting",
+        "slack",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Halfblood-Prince/trustcheck",
+      "stars": 78,
+      "desc": "Verify PyPI package attestations and improve Python supply-chain security",
+      "topics": [
+        "attestations",
+        "package",
+        "package-security",
+        "pypi",
+        "python",
+        "secuirity",
+        "sigstore",
+        "supply-chain-security",
+        "verification"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CodeGlide/codeglide-mcpgen",
+      "stars": 76,
+      "desc": "Generation of Secure MCP (Model Context Protocol) Servers from API source code at Scale",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/powershell",
+      "stars": 75,
+      "desc": "GH Action to run Az PowerShell scripts for developers and administrators to develop, deploy, and manage Microsoft Azure applications.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EverythingSuckz/github-telegram-notify",
+      "stars": 74,
+      "desc": "Actions that sends commit updates of a repository to any chat in Telegram",
+      "topics": [
+        "github-actions",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "hacktoberfest2022",
+        "telegram",
+        "telegram-bot-api",
+        "telegram-notifier"
+      ],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JimCronqvist/action-ssh",
+      "stars": 73,
+      "desc": "GitHub Action for executing SSH commands on remote servers",
+      "topics": [
+        "github-action",
+        "github-actions",
+        "github-actions-docker",
+        "ssh",
+        "ssh-client"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JohnnyMorganz/stylua-action",
+      "stars": 73,
+      "desc": "GitHub action for StyLua",
+      "topics": [
+        "formatter",
+        "github-action",
+        "lua",
+        "printer",
+        "stylua"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JosephDoUrden/vercel-seo-audit",
+      "stars": 73,
+      "desc": "If you're using Vercel and Google hates your site, this is for you.",
+      "topics": [
+        "cli",
+        "developer-tools",
+        "google-indexing",
+        "indieweb",
+        "nextjs",
+        "nodejs",
+        "opensource",
+        "robots-txt",
+        "seo",
+        "seo-audit",
+        "seo-tools",
+        "sitemap",
+        "typescript",
+        "vercel",
+        "web-performance",
+        "webdev"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "5monkeys/cobertura-action",
+      "stars": 72,
+      "desc": "GitHub Action to report cobertura coverage ",
+      "topics": [
+        "actions",
+        "coverage",
+        "github"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AButler/upload-release-assets",
+      "stars": 71,
+      "desc": "GitHub Action to upload assets to a Release",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/aci-deploy",
+      "stars": 70,
+      "desc": "Enable GitHub developers to deploy to Azure Container Instances using GitHub Actions",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "IEvangelist/resource-translator",
+      "stars": 70,
+      "desc": "A GitHub Action that automatically creates machine-translated PRs of translation files. Supported file formats include, .ini, .po, .restext, .resx, .xliff .json.",
+      "topics": [
+        "ai",
+        "cognitive-services",
+        "github-actions",
+        "hacktoberfest",
+        "ini",
+        "json",
+        "localization",
+        "machine-translator",
+        "portable-object",
+        "restext",
+        "resx",
+        "translation",
+        "translation-files",
+        "xliff",
+        "xliff2"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FantasticFiasco/action-update-license-year",
+      "stars": 69,
+      "desc": "GitHub Action that in a pull request updates the copyright year(s) in your license file.",
+      "topics": [
+        "github-action",
+        "license",
+        "license-management",
+        "year"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azbagheri/shell-linter",
+      "stars": 68,
+      "desc": "A Github Action for ShellCheck",
+      "topics": [
+        "developer-tools",
+        "github-actions",
+        "lint",
+        "static-analysis"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Codex-/return-dispatch",
+      "stars": 66,
+      "desc": "⚙️ Dispatch an action to a foreign repository and output the newly created run ID. ",
+      "topics": [
+        "actions",
+        "dispatch",
+        "github-actions",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DependencyTrack/gh-upload-sbom",
+      "stars": 66,
+      "desc": "Publishes BOMs to Dependency-Track from GitHub Actions",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EndBug/latest-tag",
+      "stars": 66,
+      "desc": ":octocat: Automatically generate \u0026 update a \"latest\" tag for your releases",
+      "topics": [
+        "actions",
+        "ci",
+        "github",
+        "github-actions",
+        "hacktoberfest",
+        "latest",
+        "tagging",
+        "tags",
+        "versioning"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ComunidadAylas/PackSquash-action",
+      "stars": 65,
+      "desc": "▶️ Action to run PackSquash in a GitHub Actions workflow.",
+      "topics": [
+        "action",
+        "actions",
+        "bandwidth-saver",
+        "compression",
+        "github-actions",
+        "hacktoberfest",
+        "lossy-compression",
+        "lossy-data-compression",
+        "lossy-image-compression",
+        "minecraft-datapack",
+        "minecraft-map-making",
+        "minecraft-resourcepack",
+        "minecraft-server",
+        "packsquash",
+        "zopfli-compression"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/bicep-deploy",
+      "stars": 64,
+      "desc": "Azure Deploy GitHub Action",
+      "topics": [
+        "arm-templates",
+        "azure",
+        "azure-resource-manager",
+        "bicep",
+        "deployments",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/k8s-bake",
+      "stars": 64,
+      "desc": "GitHub Action creating Kubernetes manifest files with Helm, Kustomize, or Kompose",
+      "topics": [
+        "action",
+        "actions",
+        "azure",
+        "bake",
+        "github-action",
+        "github-actions",
+        "kubernetes"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "10up/wpcs-action",
+      "stars": 63,
+      "desc": "GitHub Action to help you lint your PHP without additional dependencies within your codebase",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeLaGuardo/setup-graalvm",
+      "stars": 63,
+      "desc": "",
+      "topics": [
+        "cd",
+        "ci",
+        "github-actions",
+        "graalvm"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DopplerHQ/cli-action",
+      "stars": 63,
+      "desc": "GitHub Action for installing the Doppler CLI",
+      "topics": [
+        "doppler-cli",
+        "environment-variables",
+        "secret-management",
+        "secrets",
+        "secrets-manager",
+        "security"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Integral-Healthcare/robin-ai-reviewer",
+      "stars": 63,
+      "desc": "Robin is your AI pull request reviewer in the form of a super fast lightweight github action.",
+      "topics": [
+        "action",
+        "automation",
+        "chatgpt",
+        "github-actions",
+        "gpt-4",
+        "openai",
+        "pull-request",
+        "pull-request-action",
+        "pull-request-management",
+        "pull-request-review",
+        "pull-requests",
+        "review-tools"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JorgeLNJunior/render-deploy",
+      "stars": 62,
+      "desc": "A GitHub Action to deploy your application to Render.",
+      "topics": [
+        "actions",
+        "deploy",
+        "render"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DerJuulsn/todo-issue",
+      "stars": 60,
+      "desc": "🤖 GitHub Action which creates Issues from comments in your code",
+      "topics": [],
+      "lang": "C#",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/aks-set-context",
+      "stars": 58,
+      "desc": "GitHub Action for setting context (retrieving Kubeconfig) before interacting with Kubernetes cluster",
+      "topics": [
+        "actions",
+        "azure",
+        "deploy",
+        "github-action",
+        "github-actions",
+        "k8s",
+        "kubernetes"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Bogdanp/setup-racket",
+      "stars": 58,
+      "desc": "A GH action for installing Racket.",
+      "topics": [
+        "actions",
+        "racket"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ClearTax/jira-lint",
+      "stars": 58,
+      "desc": "A light-weight lint workflow when using GitHub along with JIRA for project management",
+      "topics": [
+        "jira",
+        "jira-issue",
+        "labels",
+        "pr-description",
+        "prs",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/manage-azure-policy",
+      "stars": 57,
+      "desc": "GiHub Action to manage Azure policy from GitHub workflows",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DecispherHQ/decision-guardian",
+      "stars": 57,
+      "desc": "Shift from passive documentation to active enforcement.",
+      "topics": [
+        "adr",
+        "architecture-decision-records",
+        "automation",
+        "cli",
+        "code-review",
+        "codereview",
+        "developer-tools",
+        "devtools",
+        "documentation",
+        "documentation-tool",
+        "github-action",
+        "github-actions",
+        "nodejs",
+        "open-source",
+        "pull-request",
+        "typescript"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EvilBit-Labs/opnDossier",
+      "stars": 57,
+      "desc": "Generate meaninigful output from your OPNSense/pfSense configuration file",
+      "topics": [
+        "configuration-backup",
+        "documentation",
+        "documentation-generator",
+        "firewalls",
+        "golang",
+        "opnsense"
+      ],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GrantBirki/lock",
+      "stars": 57,
+      "desc": "Lock Action to support deployment locking for the branch-deploy Action",
+      "topics": [
+        "actions",
+        "ci",
+        "deployments",
+        "github-actions",
+        "lock"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JCofman/webPagetestAction",
+      "stars": 57,
+      "desc": "⚡️🚀 Action to print webPagetest.org results ",
+      "topics": [
+        "actions",
+        "performance",
+        "performance-analysis",
+        "webpagetest"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Justintime50/homebrew-releaser",
+      "stars": 57,
+      "desc": "Release scripts, binaries, and executables directly to Homebrew via GitHub Actions.",
+      "topics": [
+        "actions",
+        "binaries",
+        "brew",
+        "distribute",
+        "executables",
+        "github",
+        "github-action",
+        "homebrew",
+        "release",
+        "script",
+        "shell"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Justintime50/shell-releaser",
+      "stars": 57,
+      "desc": "Release scripts, binaries, and executables directly to Homebrew via GitHub Actions.",
+      "topics": [
+        "actions",
+        "binaries",
+        "brew",
+        "distribute",
+        "executables",
+        "github",
+        "github-action",
+        "homebrew",
+        "release",
+        "script",
+        "shell"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Bhacaz/docs-as-code-confluence",
+      "stars": 55,
+      "desc": "Publish the content of a folder to Confluence Github Action",
+      "topics": [
+        "actions",
+        "confluence",
+        "docs-as-code"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HubSpot/hubspot-cms-deploy-action",
+      "stars": 55,
+      "desc": "GitHub Action to deploy HubSpot CMS projects",
+      "topics": [],
+      "lang": "HTML",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Codex-/await-remote-run",
+      "stars": 54,
+      "desc": "✅ Await the completion of a foreign repository Workflow Run given the Run ID.",
+      "topics": [
+        "actions",
+        "automation",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "InfraWay/post-medium-action",
+      "stars": 54,
+      "desc": "This action is for posting markdown based posts to medium",
+      "topics": [
+        "github-actions",
+        "medium",
+        "publisher"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "13rac1/block-fixup-merge-action",
+      "stars": 53,
+      "desc": "Github Action to block merge of Pull Requests containing fixup! or squash! commits",
+      "topics": [
+        "fixup",
+        "git-history",
+        "github-action",
+        "github-actions"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Co-qn/google-chat-notification",
+      "stars": 53,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CodSpeedHQ/action",
+      "stars": 53,
+      "desc": "Github Actions for running CodSpeed in your CI ",
+      "topics": [
+        "benchmarking",
+        "ci",
+        "codspeed",
+        "performance"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/aca-review-apps",
+      "stars": 52,
+      "desc": "Enable GitHub developers to create a new revision of Azure Container App for review by using GitHub Actions",
+      "topics": [
+        "actions",
+        "azure",
+        "azure-container-apps",
+        "cicd",
+        "container",
+        "github",
+        "github-actions"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DamianReeves/write-file-action",
+      "stars": 52,
+      "desc": "A GitHub action to write a file",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Frank-Gu-81/aws-ecr-image-cleaner",
+      "stars": 52,
+      "desc": "A toolkit that helps you automatically deletes old Docker images from an AWS ECR repository, keeping only the latest N images.",
+      "topics": [
+        "aws",
+        "continuous-integration",
+        "development",
+        "docker",
+        "docker-image",
+        "ecr",
+        "ecr-repositories"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Freed-Wu/translate-shell",
+      "stars": 52,
+      "desc": "Translate text by google, bing, youdaozhiyun, haici, stardict, openai, large language model of local machine, etc at same time from CLI, GUI (GNU/Linux, Android, macOS and Windows), REPL, python, shell and vim.",
+      "topics": [
+        "bing",
+        "chatgpt",
+        "commandline-tool",
+        "google",
+        "haici",
+        "lftp",
+        "llama",
+        "llamacpp",
+        "lsp-server",
+        "openai",
+        "prompt",
+        "python",
+        "repl",
+        "shell",
+        "stardict",
+        "translate",
+        "vim",
+        "youdao"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Amadevus/pwsh-script",
+      "stars": 51,
+      "desc": "GitHub Action to run PowerShell scripts in a rich, prepared scope - inspired by actions/github-script.",
+      "topics": [
+        "actions",
+        "github-action",
+        "github-actions",
+        "github-actions-javascript",
+        "powershell"
+      ],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CircleCI-Public/trigger-circleci-pipeline-action",
+      "stars": 51,
+      "desc": "Trigger a CircleCI pipeline from any GitHub Actions event.",
+      "topics": [
+        "actions",
+        "ci-cd",
+        "continuous-delivery",
+        "github-action",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GokulDas027/TelegramBridge",
+      "stars": 51,
+      "desc": "GitHub action to send notification to Telegram about the events happening in the repo.",
+      "topics": [],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JulienKode/team-labeler-action",
+      "stars": 50,
+      "desc": "⚡️ Github action to label your pull requests based on the author name ⚡️",
+      "topics": [
+        "actions",
+        "github",
+        "github-actions",
+        "javascript",
+        "labeler-action",
+        "pull-request",
+        "teams",
+        "typescript",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "2ndSetAI/good-egg",
+      "stars": 49,
+      "desc": "Trust scoring for GitHub PR authors based on contribution history.",
+      "topics": [
+        "code-review",
+        "github-action",
+        "python",
+        "security",
+        "trust-scoring"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ArminJo/arduino-test-compile",
+      "stars": 49,
+      "desc": "Github Action to compile all examples of an Arduino library for one board and check for errors",
+      "topics": [
+        "arduino",
+        "arduino-library",
+        "continuous-testing",
+        "github-action",
+        "github-actions-docker"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BirthdayResearch/oss-governance-bot",
+      "stars": 49,
+      "desc": "Speed up issue triaging with automated chat-bot and chat-ops operations. Increased code review agility by moving quality control hierarchy from requirements to educational steps.",
+      "topics": [
+        "bot",
+        "chatops",
+        "github-actions",
+        "governance",
+        "oss",
+        "project-management",
+        "review"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DataDog/synthetics-ci-github-action",
+      "stars": 49,
+      "desc": "Run Synthetic tests in your GitHub workflows with Datadog Continuous Testing",
+      "topics": [
+        "ci",
+        "continuous-integration",
+        "continuous-testing",
+        "datadog",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Glennmen/ploi-deploy-action",
+      "stars": 49,
+      "desc": "Deploy your application to Ploi with Github actions",
+      "topics": [
+        "deploy",
+        "deployment",
+        "ploi"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ItsKarma/aws-cli",
+      "stars": 49,
+      "desc": "GitHub Actions for aws-cli",
+      "topics": [],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AndreMiras/coveralls-python-action",
+      "stars": 48,
+      "desc": "GitHub Action for Python Coveralls.io",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Cyb3r-Jak3/html5validator-action",
+      "stars": 48,
+      "desc": "GitHub Action that checks HTML5 syntax.",
+      "topics": [
+        "actions",
+        "docker",
+        "github-actions",
+        "html5validator"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/appservice-settings",
+      "stars": 47,
+      "desc": "Automate your GitHub workflows using Azure Action for AppService",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Eomm/notion-board",
+      "stars": 47,
+      "desc": "Monitor your modules and repositories from Notion",
+      "topics": [
+        "github-actions",
+        "integration",
+        "notion",
+        "notion-database",
+        "npm-module"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JakePartusch/wait-for-netlify-action",
+      "stars": 47,
+      "desc": "A GitHub action that will wait until a Netlify Preview deploy has completed before continuing on",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Factory-AI/droid-code-review",
+      "stars": 46,
+      "desc": "Droid code review",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "0xmariowu/AgentLint",
+      "stars": 45,
+      "desc": "The linter for your agent harness. Works with Claude Code, Codex, and Cursor.",
+      "topics": [
+        "agent-friendly",
+        "agents-md",
+        "ai-agent",
+        "ai-coding",
+        "ai-coding-agent",
+        "ai-ready",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-md",
+        "code-quality",
+        "codex",
+        "context-engineering",
+        "cursor",
+        "developer-tools",
+        "github-copilot",
+        "harness-engineering",
+        "linter",
+        "llm-tools",
+        "prompt-engineering",
+        "repository-intelligence"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "47ng/actions-clever-cloud",
+      "stars": 45,
+      "desc": "GitHub Action to deploy to Clever Cloud",
+      "topics": [
+        "clevercloud",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AdityaGarg8/remove-unwanted-software",
+      "stars": 45,
+      "desc": "Github action to maximize the available disk space on Github runners",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AnimMouse/setup-cloudflared",
+      "stars": 45,
+      "desc": "Setup/Install Cloudflare Tunnel client for GitHub Actions ",
+      "topics": [
+        "action",
+        "actions",
+        "actionshackathon21",
+        "cloudflare",
+        "cloudflare-tunnel",
+        "cloudflared",
+        "github-actions",
+        "proxy",
+        "reverse-proxy",
+        "tunnel"
+      ],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DavideViolante/pr-reviews-reminder-action",
+      "stars": 45,
+      "desc": "A GitHub Action to send Slack/Teams notification for Pull Request that are waiting for reviewers.",
+      "topics": [
+        "github-action",
+        "github-actions",
+        "microsoft-teams",
+        "notification",
+        "pr",
+        "pull-requests",
+        "reviews",
+        "slack",
+        "teams",
+        "webhook"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Goodsmileduck/yandex-serverless-action",
+      "stars": 45,
+      "desc": "Github Action for deploying code to existed Serverless function in Yandex cloud",
+      "topics": [
+        "github",
+        "github-action",
+        "serverless",
+        "yandex-function"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AEnterprise/rsync-deploy",
+      "stars": 44,
+      "desc": "",
+      "topics": [],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Automattic/action-required-review",
+      "stars": 44,
+      "desc": "[READ ONLY] GitHub Action that will check if all review requirements are met for a PR. This repository is a mirror, for issue tracking and development head to: https://github.com/automattic/jetpack",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BetaHuhn/do-spaces-action",
+      "stars": 44,
+      "desc": "📦Upload directories/files to DigitalOcean Spaces via GitHub Actions. Supports package/library versioning.",
+      "topics": [
+        "actions",
+        "cdn",
+        "digitalocean",
+        "digitalocean-spaces",
+        "github",
+        "spaces"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EndBug/label-sync",
+      "stars": 44,
+      "desc": ":octocat: An action that allows you to sync labels from a repository or a config file",
+      "topics": [
+        "actions",
+        "ci",
+        "github",
+        "hacktoberfest",
+        "labels",
+        "repository",
+        "sync",
+        "utility",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Fieldguide/action-hasura-change-summary",
+      "stars": 44,
+      "desc": "GitHub Action to generate readable Hasura metadata change summaries.",
+      "topics": [
+        "actions",
+        "change",
+        "diff",
+        "github-actions",
+        "hasura",
+        "metadata",
+        "summary"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Just-Moh-it/Relano",
+      "stars": 44,
+      "desc": "Create beautiful '✨ What's new' videos for free using GitHub Actions",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ASzc/change-string-case-action",
+      "stars": 43,
+      "desc": "Github Action: Make a string lowercase, uppercase, or capitalized",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeLaGuardo/clojure-lint-action",
+      "stars": 43,
+      "desc": "",
+      "topics": [
+        "annotation",
+        "clj-kondo",
+        "clojure",
+        "linter"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JarvusInnovations/background-action",
+      "stars": 43,
+      "desc": "Background commands with log tailing/capture; waits until file/port/socket/http are ready to proceed. Isolates/dedupe errors.",
+      "topics": [
+        "background",
+        "bg",
+        "command",
+        "fg",
+        "logging",
+        "process",
+        "wait-on"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CatChen/eslint-suggestion-action",
+      "stars": 42,
+      "desc": "This GitHub Action runs ESLint and provides inline feedback to the changes in a Pull Request.",
+      "topics": [
+        "eslint",
+        "github-actions"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Dylan700/sftp-upload-action",
+      "stars": 42,
+      "desc": "A GitHub Action for uploading files via SFTP",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FleekHQ/IC-Deploy-Action",
+      "stars": 42,
+      "desc": "Github action that wraps dfx commands to deploy canisters to Dfinity on push",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JustinBeckwith/linkinator-action",
+      "stars": 42,
+      "desc": "A GitHub Action that checks your README and other markdown for 404s.",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Cecilapp/GitHub-Pages-deploy",
+      "stars": 41,
+      "desc": "A GitHub Action to deploy a static site on GitHub Pages.",
+      "topics": [
+        "action",
+        "gh-pages",
+        "github-actions"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Checkmarx/dustilock",
+      "stars": 41,
+      "desc": "DustiLock is a tool to find which of your dependencies is susceptible to a Dependency Confusion attack.",
+      "topics": [
+        "dependency-confusion",
+        "security",
+        "security-tools"
+      ],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ExpediaGroup/github-helpers",
+      "stars": 41,
+      "desc": "A collection of Github Actions that simplify and standardize common CI/CD workflow tasks.",
+      "topics": [
+        "ci",
+        "github-actions",
+        "oss-portal-listed",
+        "workflows"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JasonWei512/Upload-Microsoft-Store-MSIX-Package-to-GitHub-Release",
+      "stars": 41,
+      "desc": "🤖 A GitHub action to upload Microsoft Store-signed MSIX packages to GitHub release.",
+      "topics": [
+        "github-actions",
+        "github-releases",
+        "microsoft-store"
+      ],
+      "lang": "C#",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Aniket-508/vercel-doctor",
+      "stars": 40,
+      "desc": "Let coding agents diagnose and fix your Vercel bill",
+      "topics": [
+        "agents",
+        "code-review",
+        "nextjs",
+        "skill",
+        "vercel",
+        "vercel-deployment"
+      ],
+      "lang": "MDX",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/k8s-create-secret",
+      "stars": 40,
+      "desc": "GitHub Action to create Kubernetes cluster secrets",
+      "topics": [
+        "action",
+        "actions",
+        "aks",
+        "azure",
+        "github-action",
+        "github-actions",
+        "kubernetes",
+        "secrets"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Dirrk/terraform-docs",
+      "stars": 40,
+      "desc": "A Github action for generating terraform documentation using terraform-docs",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GrantBirki/json-yaml-validate",
+      "stars": 40,
+      "desc": "A GitHub Action to quickly validate JSON and YAML files in a repository",
+      "topics": [
+        "actions",
+        "ci",
+        "json",
+        "validation",
+        "yaml"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JJ/github-pr-contains-action",
+      "stars": 40,
+      "desc": "Action that checks whether the body or diff in a PR contains a certain word.",
+      "topics": [
+        "github",
+        "github-actions",
+        "hacktoberfest",
+        "hacktoberfest2021",
+        "hacktoberfest2023"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ActionsDesk/lfs-warning",
+      "stars": 39,
+      "desc": "GitHub Action to detect Large Files in a Pull Request",
+      "topics": [
+        "github",
+        "github-actions",
+        "lfs-warning"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Caphyon/advinst-github-action",
+      "stars": 39,
+      "desc": "GitHub action for Advanced Installer tool",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeterminateSystems/flakehub-push",
+      "stars": 39,
+      "desc": "Release your Nix flake to FlakeHub.com.",
+      "topics": [
+        "nix",
+        "release-automation",
+        "semver"
+      ],
+      "lang": "Rust",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JonasKruckenberg/tauri-build",
+      "stars": 39,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Ant0wan/openai-pr",
+      "stars": 38,
+      "desc": "Pull request descriptions wrote by OpenAI. ",
+      "topics": [
+        "actions",
+        "ongoing",
+        "openapi"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/k8s-lint",
+      "stars": 38,
+      "desc": "GitHub Action to validate Kubernetes manifest files",
+      "topics": [
+        "action",
+        "actions",
+        "azure",
+        "github-action",
+        "github-actions",
+        "k8s",
+        "kubernetes",
+        "lint"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Bhupesh-V/memer-action",
+      "stars": 38,
+      "desc": "A GitHub Action for Programmer Memes xD",
+      "topics": [
+        "actions",
+        "dank-memer",
+        "dankmemes",
+        "fun",
+        "hacktoberfest",
+        "meme",
+        "memer",
+        "memer-action",
+        "memes",
+        "memes4life",
+        "programmerhumor",
+        "project-management",
+        "pull-requests",
+        "reddit",
+        "utilities",
+        "workflows"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ConsenSys/kubernetes-action",
+      "stars": 38,
+      "desc": "GitHub Action to run kubectl",
+      "topics": [],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "10up/action-wordpress-plugin-build-zip",
+      "stars": 37,
+      "desc": "Build a zip archive of your WordPress.org plugin using GitHub Actions",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/build-vm-image",
+      "stars": 37,
+      "desc": "Github action to create custom virtual machine images that contain artifacts built in CI workflows",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DevExpress/testcafe-action",
+      "stars": 37,
+      "desc": "TestCafe test runner for GitHub Actions",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "42Crunch/api-security-audit-action",
+      "stars": 36,
+      "desc": "",
+      "topics": [
+        "ecosystem",
+        "production"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AleksandrFurmenkovOfficial/ai-code-review",
+      "stars": 36,
+      "desc": "AI Code Review is a lightweight, simple GitHub Action that supports various AI models to analyze and provide feedback on your code. This GitHub Action helps improve code quality by automatically reviewing pull requests, focusing on specified file extensions, and excluding specific paths.",
+      "topics": [
+        "action",
+        "actions",
+        "ai",
+        "chatgpt",
+        "ci",
+        "ci-cd",
+        "cicd",
+        "code",
+        "code-review",
+        "js",
+        "node",
+        "node-js",
+        "nodejs"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Bounceapp/render-action",
+      "stars": 36,
+      "desc": "Render GitHub Action",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Comfy-Org/comfy-action",
+      "stars": 36,
+      "desc": "Sets up ComfyUI on MacOS/Linux/Windows and runs a workflow json.",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EddieHubCommunity/gh-actions-html-table-generator",
+      "stars": 36,
+      "desc": "Read from a json file and write to the README",
+      "topics": [
+        "action",
+        "actions",
+        "hacktoberfest",
+        "html",
+        "json"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EmilioPelaez/build-apple-platforms",
+      "stars": 36,
+      "desc": "GitHub Action to build all  platforms",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JungWinter/split",
+      "stars": 36,
+      "desc": "GitHub action to split string",
+      "topics": [
+        "action",
+        "actions",
+        "github-action",
+        "github-actions"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "2m/arch-pkgbuild-builder",
+      "stars": 35,
+      "desc": "Arch Linux PKGBUILD GitHub builder action",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AppImageCrafters/build-appimage",
+      "stars": 35,
+      "desc": "GitHub Action for producing AppImages",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Copenhagen0x/solana-security-guidance",
+      "stars": 35,
+      "desc": "Solana's SOL-0XX security standard — bug-class rules distilled from $514M of real exploits, firing as you code in every AI tool, editor \u0026 CI.",
+      "topics": [
+        "anchor",
+        "anthropic",
+        "audit",
+        "bug-bounty",
+        "claude-code",
+        "rust",
+        "security",
+        "solana",
+        "static-analysis"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Copenhagen0x/solana-security-standard",
+      "stars": 35,
+      "desc": "Solana's SOL-0XX security standard — bug-class rules distilled from $514M of real exploits, firing as you code in every AI tool, editor \u0026 CI.",
+      "topics": [
+        "anchor",
+        "anthropic",
+        "audit",
+        "bug-bounty",
+        "claude-code",
+        "rust",
+        "security",
+        "solana",
+        "static-analysis"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FriendsOfTerraform/tfdocs-extras",
+      "stars": 35,
+      "desc": "Document your Terraform modules' inputs and outputs inline using the @-notation you've seen in other languages.",
+      "topics": [
+        "golang",
+        "terraform",
+        "terraform-docs",
+        "tfdocs"
+      ],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GavinRay97/hasura-ci-cd-action",
+      "stars": 35,
+      "desc": "",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JamieMagee/wayback",
+      "stars": 35,
+      "desc": "Save pages to the Wayback Machine as part of your CI/CD pipeline",
+      "topics": [
+        "actions",
+        "github-actions",
+        "internet-archive",
+        "wayback",
+        "wayback-machine"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Asana/comment-on-task-github-action",
+      "stars": 34,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Backbase/variants",
+      "stars": 34,
+      "desc": "A command-line tool to setup deployment variants for iOS and Android, alongside a working CI/CD setup.",
+      "topics": [
+        "android",
+        "ci-cd",
+        "continuous-delivery",
+        "continuous-deployment",
+        "developer-tools",
+        "ios",
+        "mobile"
+      ],
+      "lang": "Swift",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Devorein/github-readme-learn-section-notion",
+      "stars": 34,
+      "desc": "Update your github README with data fetched from a notion database",
+      "topics": [
+        "github-actions",
+        "github-readme",
+        "notion",
+        "notion-database"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ChrisCarini/intellij-platform-plugin-verifier-action",
+      "stars": 33,
+      "desc": "GitHub Action for executing the intellij-plugin-verifier",
+      "topics": [
+        "github-action",
+        "github-actions",
+        "github-actions-docker",
+        "github-actions-intellij",
+        "github-actions-java",
+        "github-actions-jetbrains",
+        "intellij-plugin-verifier",
+        "jetbrains",
+        "jetbrains-ecosystem",
+        "jetbrains-plugin",
+        "verifier"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeterminateSystems/determinate-nix-action",
+      "stars": 33,
+      "desc": "The Github Action for Determinate Nix",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GuillaumeFalourd/setup-windows10-sdk-action",
+      "stars": 33,
+      "desc": "Github action to download and install a specific version of the Windows 10 SDK 📦",
+      "topics": [
+        "c",
+        "cmake",
+        "github-actions",
+        "hacktoberfest",
+        "sdk",
+        "utilities",
+        "windows10"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JacobDomagala/StaticAnalysis",
+      "stars": 33,
+      "desc": "GitHub action performs static analysis on C++/Python code, flags issues, and posts comments directly on PRs.",
+      "topics": [
+        "clang-tidy",
+        "cmake",
+        "cpp",
+        "cppcheck",
+        "githubaction-workflow",
+        "pylint",
+        "python",
+        "static-analysis"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/data-factory-deploy-action",
+      "stars": 32,
+      "desc": "GitHub Action for side-effect free deployment of Azure Data Factory resources",
+      "topics": [
+        "arm-templates",
+        "azure",
+        "data-factory",
+        "deployment",
+        "github-actions"
+      ],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HighwayThree/jira-upload-deployment-info",
+      "stars": 32,
+      "desc": "",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HurricanKai/Publish-Docker-Github-Action",
+      "stars": 32,
+      "desc": "A Github Action which uses the Git branch as the Docker tag for pushing",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AlexxNB/caprover-action",
+      "stars": 31,
+      "desc": "Action to deploy on Caprover server.",
+      "topics": [],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Chizkiyahu/delete-untagged-ghcr-action",
+      "stars": 31,
+      "desc": "Action for delete containers from Github container registry ",
+      "topics": [
+        "actions",
+        "delete-packages",
+        "delete-untagged-packages",
+        "ghcr",
+        "github-actions"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Helixar-AI/ReleaseGuard",
+      "stars": 31,
+      "desc": "ReleaseGuard is an open-source artifact policy engine and hardening suite. It scans, transforms, obfuscates, attests, and verifies release artifacts before they ship across every build ecosystem.",
+      "topics": [
+        "artifact",
+        "devsecops",
+        "golang",
+        "policy-engine",
+        "release-management",
+        "releaseguard",
+        "sbom",
+        "secrets-scanner",
+        "security",
+        "supply-chain"
+      ],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Iron-Ham/swift-format-linter-action",
+      "stars": 31,
+      "desc": "A GitHub Action that runs Apple's swift-format linter on diffed files. ",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JorelAli/setup-elm",
+      "stars": 31,
+      "desc": "Set up your GitHub Actions workflow with a specific version of Elm",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JBZoo/CI-Report-Converter",
+      "stars": 30,
+      "desc": "The tool converts different error reporting standards for deep compatibility with popular CI systems (TeamCity, IntelliJ IDEA, GitHub Actions, etc).",
+      "topics": [
+        "actions",
+        "checkstyle",
+        "ci",
+        "codestyle",
+        "github",
+        "inspections",
+        "jbzoo",
+        "junit",
+        "phan",
+        "phpcs",
+        "phpstan",
+        "phpstorm",
+        "psalm",
+        "report",
+        "teamcity",
+        "test",
+        "testing"
+      ],
+      "lang": "PHP",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Jaid/action-sync-node-meta",
+      "stars": 30,
+      "desc": "GitHub Action that syncs package.json with the repository metadata.",
+      "topics": [
+        "action",
+        "action-sync-node-meta",
+        "actions",
+        "bot",
+        "github-action",
+        "github-actions",
+        "github-api",
+        "metadata",
+        "node",
+        "node-js",
+        "nodejs",
+        "repository",
+        "sync-node-meta",
+        "util",
+        "utility",
+        "workflow"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/Synapse-workspace-deployment",
+      "stars": 29,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/functions-container-action",
+      "stars": 29,
+      "desc": "Enable GitHub developers to deploy to Azure Function Apps Containers using GitHub Actions",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CaseyHofland/docfx-unitypackage",
+      "stars": 29,
+      "desc": "DocFX Unity package is a GitHub action for deploying a DocFX website for Unity packages to GitHub Pages.",
+      "topics": [
+        "docfx",
+        "github-action",
+        "unity"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DecimalTurn/VBA-Build",
+      "stars": 29,
+      "desc": "Build VBA-Enabled Office documents from source code using GitHub Actions.",
+      "topics": [
+        "build",
+        "build-tool",
+        "ci-cd",
+        "cicd",
+        "deploy",
+        "deployment",
+        "devops",
+        "office365",
+        "vba"
+      ],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EPMatt/reviewdog-action-tsc",
+      "stars": 29,
+      "desc": "Run tsc with reviewdog :dog:",
+      "topics": [
+        "action",
+        "actions",
+        "ci",
+        "cicd",
+        "code",
+        "code-review",
+        "continuous-integration",
+        "github",
+        "github-actions",
+        "reviewdog",
+        "testing",
+        "tsc",
+        "typescript",
+        "web"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Alemiz112/netbird-connect",
+      "stars": 28,
+      "desc": "A GitHub Action to connect your workflow to your Netbird network. Inspired by tailscale/github-action.",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Creepios/sftp-action",
+      "stars": 28,
+      "desc": "GitHub Action to upload files/directories via ssh",
+      "topics": [
+        "action",
+        "deploy",
+        "deployment",
+        "sftp",
+        "sftp-upload",
+        "ssh"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CupOfTea696/gh-action-auto-release",
+      "stars": 28,
+      "desc": "",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DataDog/ensure-ci-success",
+      "stars": 28,
+      "desc": "Keep your PRs green by ensuring all CI checks pass.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GaelGirodon/ci-badges-action",
+      "stars": 28,
+      "desc": "Badges for test results and code coverage",
+      "topics": [
+        "actions",
+        "badge",
+        "ci",
+        "coverage",
+        "github",
+        "github-actions",
+        "shields",
+        "test",
+        "tests"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JackMcKew/pyinstaller-action-linux",
+      "stars": 28,
+      "desc": "Github Action for building executables with Pyinstaller for Linux",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Balastrong/chess-stats-action",
+      "stars": 27,
+      "desc": "♟️ Automatically update your README.md with Chess.com games and stats - fully customizable",
+      "topics": [
+        "chess",
+        "github-actions",
+        "hacktoberfest",
+        "readme"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ConorMacBride/install-package",
+      "stars": 27,
+      "desc": "GitHub Action to install packages from brew, brew cask, apt and choco.",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FarisZR/docker-compose-gitops-action",
+      "stars": 27,
+      "desc": "A GitHub action that makes GitOps with the simplicity of Docker Compose possible.",
+      "topics": [
+        "actions",
+        "docker",
+        "docker-cli",
+        "docker-compose",
+        "github",
+        "gitops"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ForAllSecure/mapi-action",
+      "stars": 27,
+      "desc": " 🤖 Run a Mayhem for API scan in GitHub Actions",
+      "topics": [
+        "devsecops",
+        "openapi",
+        "postman",
+        "reliability",
+        "rest-api",
+        "security",
+        "testing"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FriendsOfREDAXO/installer-action",
+      "stars": 27,
+      "desc": "A GithubAction to upload github releases automatically into the REDAXO installer",
+      "topics": [
+        "action",
+        "actions",
+        "github-actions",
+        "hacktoberfest",
+        "publishing",
+        "redaxo"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Huniko519/Github-Auto-Follow-Unfollow-View-User-List",
+      "stars": 27,
+      "desc": "👔 A main feature that automatically unfollows users who don’t follow, and another that follows back users who follow you but weren’t being followed. A GitHub Action updates the README file with your follower list and your current profile information.",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JetBrains/ReSharper-InspectCode",
+      "stars": 27,
+      "desc": "C# static analysis on GitHub Actions using JetBrains ReSharper InspectCode.",
+      "topics": [
+        "code-quality",
+        "code-quality-analyzer",
+        "code-review",
+        "csharp",
+        "dotnet",
+        "github-action",
+        "github-actions",
+        "jetbrains",
+        "resharper",
+        "static-analysis",
+        "static-analyzer"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Joel-hanson/django-aws-eb-deploy",
+      "stars": 27,
+      "desc": "This is a GitHub action for automated deployment of Django projects to aws elastic beanstalk.",
+      "topics": [
+        "bandit-report",
+        "coverage-report",
+        "django",
+        "triggers",
+        "workflow"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/acr-build",
+      "stars": 26,
+      "desc": "Github action to build containers with Azure Container Registry",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CamiloGarciaLaRotta/watermelon-http-client",
+      "stars": 26,
+      "desc": "GitHub Action to perform HTTP requests. Supports GraphQL!",
+      "topics": [
+        "github-action",
+        "graphql-client",
+        "http-client"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EPMatt/reviewdog-action-prettier",
+      "stars": 26,
+      "desc": "Run Prettier with reviewdog :dog:",
+      "topics": [
+        "action",
+        "actions",
+        "ci",
+        "cicd",
+        "code",
+        "code-formatter",
+        "code-review",
+        "continuous-integration",
+        "formatter",
+        "formatters",
+        "github",
+        "github-actions",
+        "prettier",
+        "reviewdog",
+        "reviewdog-action",
+        "testing",
+        "web"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EddieHubCommunity/gh-action-open-source-labels",
+      "stars": 26,
+      "desc": "Issue labels using Open Source labels standards",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GregBrimble/tailwindui-crawler-action",
+      "stars": 26,
+      "desc": "Automate the crawling and cataloging of the Tailwind UI components",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "InstaWP/wordpress-testing-automation",
+      "stars": 26,
+      "desc": "This custom action can automate your WordPress product testing by 10x. Integrate it with your InstaWP account and get going within minutes.",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JesseTG/rm",
+      "stars": 26,
+      "desc": "Remove a path or directory while in a GitHub Actions job",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "KengoTODA/actions-setup-docker-compose",
+      "stars": 26,
+      "desc": "the GitHub Action setting up docker-compose command",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "10up/wp-scanner-action",
+      "stars": 25,
+      "desc": "GitHub Action to perform various checks for WordPress sites (syntax, virus, known vulnerabilities)",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Ash258/Scoop-GithubActions",
+      "stars": 25,
+      "desc": "Deprecated. Use https://github.com/shovel-org/GithubActions",
+      "topics": [
+        "github-action",
+        "github-actions",
+        "scoop",
+        "shovel"
+      ],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/postgresql",
+      "stars": 25,
+      "desc": " Deploy to an Azure PostgreSQL database using PLSQL scripts.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BSFishy/meson-build",
+      "stars": 25,
+      "desc": "Run a Meson task during your Actions workflow",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DopplerHQ/secrets-fetch-action",
+      "stars": 25,
+      "desc": "Securely inject Doppler secrets into your GitHub Actions.",
+      "topics": [
+        "secret-management",
+        "secrets",
+        "secrets-management",
+        "secrets-manager",
+        "security"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DuckSoft/build-aur-action",
+      "stars": 25,
+      "desc": "Build Specific AUR Package in Docker",
+      "topics": [
+        "archlinux",
+        "aur",
+        "docker-image",
+        "github-action",
+        "github-actions-docker"
+      ],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Geometrically/fabric-test-runner",
+      "stars": 25,
+      "desc": "A test runner for mods using the fabric framework allowing for Minecraft Mods to use CI/CD!",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GregBrimble/dark-static-assets-action",
+      "stars": 25,
+      "desc": "Upload Static Assets to a Dark (@darklang) canvas",
+      "topics": [
+        "dark",
+        "darklang",
+        "github-actions"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HardNorth/github-version-generate",
+      "stars": 25,
+      "desc": "A GitHub action for application version bump, generation, reading and format in release pipelines",
+      "topics": [
+        "actions",
+        "bump",
+        "bump-version",
+        "bumping",
+        "bumpversion",
+        "generate",
+        "github",
+        "prerelease",
+        "release",
+        "release-automation",
+        "release-pipelines",
+        "version",
+        "versioning"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HollowMan6/Wechat-Timed-Message",
+      "stars": 25,
+      "desc": "Send timed message to Wechat. (向微信推送定时消息)",
+      "topics": [
+        "timed-messagebox-reminders",
+        "wechat"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CyberAndrii/setup-steamcmd",
+      "stars": 24,
+      "desc": ":octocat: :rocket: An action that sets up SteamCMD.",
+      "topics": [
+        "setup-steamcmd",
+        "steam",
+        "steam-api",
+        "steam-games",
+        "steam-workshop",
+        "steamcmd",
+        "valve"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Doarakko/draw-action",
+      "stars": 24,
+      "desc": "Draw Yu-Gi-Oh! Card on GitHub issue.",
+      "topics": [
+        "github-actions",
+        "ygoprodeck",
+        "yu-gi-oh",
+        "yugioh"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GoatG33k/fivem-lua-lint-action",
+      "stars": 24,
+      "desc": "A GitHub action for linting FiveM / Cfx Lua scripts",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GreenTF/upload-thunderstore-package",
+      "stars": 24,
+      "desc": "Github action that uses the thunderstore CLI to upload a package to thunderstore",
+      "topics": [
+        "northstar",
+        "thunderstore"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "IAreKyleW00t/verified-bot-commit",
+      "stars": 24,
+      "desc": "✅ GitHub Action for creating signed and verified bot commits",
+      "topics": [
+        "actions",
+        "commit",
+        "git",
+        "git-commit",
+        "github-actions",
+        "github-actions-bot",
+        "github-api",
+        "rest-api",
+        "signed-commits",
+        "signing",
+        "typescript-action",
+        "verification",
+        "verified-commits"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "IvanFon/super-labeler-action",
+      "stars": 24,
+      "desc": "A superpowered issue and pull request labeler for Github Actions.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JoshuaTheMiller/conditional-build-matrix",
+      "stars": 24,
+      "desc": "A GitHub Action that enables easier conditional matrix builds!",
+      "topics": [
+        "action",
+        "buildmatrix",
+        "conditional-build-matrix",
+        "conditional-matrix",
+        "github-action"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Airfordable/ecs-deploy-task-definition-to-scheduled-task",
+      "stars": 23,
+      "desc": "Creates a new ECS task definition and deploys it to related scheduled tasks within a given cluster",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CodexLink/discord-activity-badge",
+      "stars": 23,
+      "desc": "Bridge your discord's state and activity to a representable badge on your repository / profile to show your discord's current status. Powered by Docker and Python + AsyncIO + discord.py + aiohttp.",
+      "topics": [
+        "badge-generator",
+        "discord",
+        "discord-bot-client",
+        "discord-presence",
+        "discord-python",
+        "github-action-docker",
+        "github-api",
+        "github-profiles",
+        "python3"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ElayGelbart/Heroku-Auto-Deployment",
+      "stars": 23,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "IonBazan/composer-diff-action",
+      "stars": 23,
+      "desc": "Compare composer.lock files and generate human-readable list of package changes",
+      "topics": [
+        "composer",
+        "composer-diff",
+        "composer-plugin",
+        "diff",
+        "github",
+        "github-actions",
+        "markdown",
+        "packages",
+        "packagist",
+        "php",
+        "pullrequest"
+      ],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "0xBigBoss/supabase-branch-gh-action",
+      "stars": 22,
+      "desc": "A Github Action to return the Supabase preview branch URL and credentials for a given Supabase project.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ChenCMD/datapack-linter",
+      "stars": 22,
+      "desc": "Datapack Linting with GitHub Action",
+      "topics": [],
+      "lang": "Scala",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CodelyTV/check-critical-files",
+      "stars": 22,
+      "desc": "👁 Check for critical files in your commits",
+      "topics": [
+        "action",
+        "alerting",
+        "code-review",
+        "github",
+        "github-action",
+        "github-actions",
+        "pull-requests",
+        "secret-management",
+        "secrets",
+        "secrets-management",
+        "utilities"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CycloneDX/gh-node-module-generatebom",
+      "stars": 22,
+      "desc": "GitHub action to generate a CycloneDX SBOM for Node.js",
+      "topics": [
+        "bill-of-materials",
+        "bom",
+        "cyclonedx",
+        "gh-action",
+        "github-action",
+        "node",
+        "nodejs",
+        "owasp",
+        "sbom",
+        "sbom-generator",
+        "software-bill-of-materials"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DVDAndroid/action-android-lint",
+      "stars": 22,
+      "desc": "Run Android Lint with reviewdog",
+      "topics": [
+        "actions",
+        "android",
+        "code-quality",
+        "lint",
+        "reviewdog"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DariuszPorowski/github-action-gitleaks",
+      "stars": 22,
+      "desc": "This GitHub Action allows you to run Gitleaks in your GitHub workflow.",
+      "topics": [
+        "devsecops",
+        "github-actions",
+        "gitleaks",
+        "sast",
+        "secrets",
+        "secrets-detection",
+        "secrets-management",
+        "secrets-scan",
+        "secrets-scanner",
+        "security-scan",
+        "security-scanner",
+        "static-code-analysis"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Genymobile/genymotion-saas-github-action",
+      "stars": 22,
+      "desc": "Set up your GitHub Actions workflow with a specific Genymotion Cloud SaaS",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GrantBirki/git-diff-action",
+      "stars": 22,
+      "desc": "A GitHub Action for gathering the git diff of a pull request in raw or JSON format",
+      "topics": [
+        "actions",
+        "automation",
+        "git-diff",
+        "json"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HCL-TECH-SOFTWARE/appscan-codesweep-action",
+      "stars": 22,
+      "desc": "Integrate static security testing with HCL AppScan CodeSweep with Github.",
+      "topics": [
+        "action",
+        "appscan",
+        "codesweep",
+        "github",
+        "github-actions",
+        "sast",
+        "scanning",
+        "security",
+        "security-automation",
+        "security-scanner",
+        "security-testing",
+        "security-tools"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JungWinter/comment",
+      "stars": 22,
+      "desc": "GitHub action to comment on pr, issue",
+      "topics": [
+        "action",
+        "actions",
+        "github-action",
+        "github-actions"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "10up/action-repo-automator",
+      "stars": 21,
+      "desc": "GitHub Action to automate common repo operations like validate PR description, changelog, and credits.",
+      "topics": [
+        "automation",
+        "github-actions",
+        "pull-request"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AliceOh/CreateWindowsInstaller",
+      "stars": 21,
+      "desc": "Github Action to Build and release Windows installer on github release page",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BRAINSia/free-disk-space",
+      "stars": 21,
+      "desc": ":octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ChristopheLav/iis-deploy",
+      "stars": 21,
+      "desc": "A Github Action that allow to deploy a website on IIS",
+      "topics": [
+        "actions",
+        "deployment",
+        "github",
+        "iis"
+      ],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "IQSS/dataverse-uploader",
+      "stars": 21,
+      "desc": "GitHub Action to publish repository content on Dataverse",
+      "topics": [
+        "data-repository",
+        "dataverse",
+        "dataverse-api"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Jisan09/SSH4Me",
+      "stars": 21,
+      "desc": "SSH4Me is a Docker container for secure root access to development environments via an Ngrok tunnel. ",
+      "topics": [
+        "docker",
+        "dockerfile",
+        "github-actions",
+        "ngrok",
+        "openssl",
+        "railway",
+        "railway-app",
+        "ssh",
+        "ssh-tunnel",
+        "tunnel-server",
+        "vps",
+        "vps-server",
+        "workflow",
+        "workflows"
+      ],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AikidoSec/github-actions-workflow",
+      "stars": 20,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Aveek-Saha/spotify-box",
+      "stars": 20,
+      "desc": "🎧 Update a pinned gist to show your top Spotify tracks/artists.",
+      "topics": [
+        "gist",
+        "gistbox",
+        "pinned-gist",
+        "secrets",
+        "spotify",
+        "spotify-box",
+        "spotify-plugin"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/appservice-build",
+      "stars": 20,
+      "desc": "Enable GitHub developers to build Azure WebApps using GitHub Actions",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Contrast-Security-OSS/contrastscan-action",
+      "stars": 20,
+      "desc": "Contrast Scan GitHub action",
+      "topics": [
+        "contrast-security",
+        "dockerfile",
+        "kotlin",
+        "sast",
+        "sca",
+        "security",
+        "static-analysis"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Cyberbeni/install-swift-tool",
+      "stars": 20,
+      "desc": "GitHub Action to build and cache any Swift based tool in workflows.",
+      "topics": [
+        "github-actions",
+        "swift",
+        "workflow"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Eomm/why-don-t-you-tweet",
+      "stars": 20,
+      "desc": "Tweet your GitHub events!",
+      "topics": [
+        "automation",
+        "github-actions",
+        "tweets",
+        "twitter",
+        "twitter-bot"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Gottox/irc-message-action",
+      "stars": 20,
+      "desc": "Github Action to Interact with IRC Channels and Users",
+      "topics": [
+        "github-actions",
+        "hacktoberfest",
+        "irc-notification"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Guardsquare/appsweep-action",
+      "stars": 20,
+      "desc": "GitHub action for AppSweep can be used to continuously integrate app scanning using AppSweep into your Android app build process",
+      "topics": [
+        "android-development",
+        "app-testing",
+        "security-tools"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "InfraWay/tweet-action",
+      "stars": 20,
+      "desc": "This action allows to make a tweet instantly or scheduled",
+      "topics": [
+        "github-actions",
+        "publisher",
+        "tweet",
+        "twitter"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JoshStern/push-md-to-notion",
+      "stars": 20,
+      "desc": "Push Markdown to Notion",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JustinGrote/Super-Duper-Linter",
+      "stars": 20,
+      "desc": "Inspired by github/super-linter, but using Powershell",
+      "topics": [],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AnandChowdhary/dependabot-pr-action",
+      "stars": 19,
+      "desc": "📦 Label, approve, and merge Dependabot pull requests automatically",
+      "topics": [
+        "dependabot",
+        "dependency",
+        "github-actions",
+        "nodejs",
+        "typescript"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BOB-DSPM/SAGE",
+      "stars": 19,
+      "desc": "",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BerniWittmann/background-server-action",
+      "stars": 19,
+      "desc": "Github Action to spawn a background server to execute tests",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CrowdStrike/fcs-action",
+      "stars": 19,
+      "desc": "CrowdStrike FCS CLI GitHub action",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Cyberboss/install-winget",
+      "stars": 19,
+      "desc": "Action to install latest winget CLI on Windows runners",
+      "topics": [
+        "actions",
+        "github-actions",
+        "github-actions-ci",
+        "install",
+        "installer",
+        "installer-script",
+        "windows",
+        "windows-2022",
+        "winget",
+        "winget-cli"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Decathlon/slate-builder-action",
+      "stars": 19,
+      "desc": "GitHub Action to build Slate Documentation",
+      "topics": [
+        "actions",
+        "documentation-tool",
+        "github-actions"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DevCycleHQ/feature-flag-code-usage-action",
+      "stars": 19,
+      "desc": "DevCycle - Feature Flag Code Usages Action",
+      "topics": [
+        "continuous-delivery",
+        "continuous-deployment",
+        "devcycle",
+        "devops",
+        "feature-flags",
+        "feature-toggles",
+        "openfeature"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DevCycleHQ/feature-flag-pr-insights-action",
+      "stars": 19,
+      "desc": "DevCycle -",
+      "topics": [
+        "continuous-delivery",
+        "continuous-deployment",
+        "devcycle",
+        "devops",
+        "feature-flags",
+        "feature-toggles",
+        "openfeature"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DeveloperMetrics/lead-time-for-changes",
+      "stars": 19,
+      "desc": "A GitHub Action to roughly calculate DORA lead time for changes",
+      "topics": [
+        "action",
+        "dora",
+        "lead-time-for-changes"
+      ],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FerLuisxd/create-npmrc",
+      "stars": 19,
+      "desc": "Github workflow action to create .npmrc file for github to the root folder",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GuillaumeFalourd/test-cli-commands-action",
+      "stars": 19,
+      "desc": "Github Action to assert / check a command line output 🕵️⚙️🖥",
+      "topics": [
+        "all-os-supported",
+        "assert",
+        "cli",
+        "command-line",
+        "github-actions",
+        "hacktoberfest",
+        "utilities"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "3Alan/search-engines-urls-push",
+      "stars": 18,
+      "desc": "🕷 A github action to push your site urls to search engines.",
+      "topics": [
+        "baidu-push",
+        "bing-webmaster",
+        "google-indexing-api",
+        "indexing",
+        "search-engines"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "73h/gae-app-yaml-replace-env-variables",
+      "stars": 18,
+      "desc": "If you are using Googles App Engine and want to use secrets in the app.yaml file, you can store them as Secrets in your repository and have them replaced during deployment.",
+      "topics": [
+        "action",
+        "actions",
+        "deployment",
+        "env",
+        "env-file",
+        "github-actions",
+        "google-app-engine",
+        "google-appengine",
+        "secrets"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ActionsDesk/github-actions-allow-list-as-code-action",
+      "stars": 18,
+      "desc": "Automate GitHub Actions allow list for GitHub Enterprise Cloud accounts",
+      "topics": [
+        "automation",
+        "github-actions",
+        "github-enterprise-cloud",
+        "policy-as-code"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ArwynFr/actions-docker-context",
+      "stars": 18,
+      "desc": "This docker action configures a docker context in the current environment",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "B1NARY-GR0UP/nwa",
+      "stars": 18,
+      "desc": "A Simple Yet Powerful Tool for License Header Management: Effortlessly Add, Check, Update, and Remove License Headers",
+      "topics": [
+        "ci",
+        "command-line-tool",
+        "go",
+        "license",
+        "license-checker",
+        "license-header",
+        "pre-commit",
+        "utility"
+      ],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Burnett01/actions-drawio",
+      "stars": 18,
+      "desc": "Convert draw.io documents to jpeg, png, svg, pdf using drawio-batch.",
+      "topics": [
+        "action",
+        "actions",
+        "assets",
+        "convert",
+        "diagramm",
+        "docker",
+        "documents",
+        "drawio",
+        "drawio-batch",
+        "export",
+        "github-actions",
+        "images"
+      ],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DataDog/test-visibility-github-action",
+      "stars": 18,
+      "desc": "GitHub Action that installs Datadog Test Visibility",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Difegue/action-megacmd",
+      "stars": 18,
+      "desc": "GitHub Action for interacting with MEGA",
+      "topics": [],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EndBug/pages-preview",
+      "stars": 18,
+      "desc": ":octocat: A GitHub Action that creates a GitHub Pages preview for PRs and branches",
+      "topics": [
+        "ci",
+        "cicd",
+        "deployment",
+        "github-actions",
+        "github-pages",
+        "preview"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FX31337/FX-Data-Convert-Action",
+      "stars": 18,
+      "desc": ":chart_with_upwards_trend:🐳Converts Forex historical data to different formats via GitHub Actions",
+      "topics": [
+        "backtesting",
+        "csv",
+        "docker",
+        "forex",
+        "fxt",
+        "github-actions",
+        "hcc",
+        "historical-data",
+        "hst",
+        "metatrader"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FX31337/MQL-Tester-Action",
+      "stars": 18,
+      "desc": ":chart_with_upwards_trend:🐳Runs MQL programs via GitHub Actions",
+      "topics": [
+        "backtesting",
+        "docker",
+        "expert-advisors",
+        "forex",
+        "github-actions",
+        "metatrader",
+        "mql"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GarreauArthur/manage-digital-ocean-managed-database-trusted-sources-gh-action",
+      "stars": 18,
+      "desc": "Everything is in the title düd ",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GeopJr/CO2",
+      "stars": 18,
+      "desc": "A GitHub action that notifies you about your website's carbon emissions and gives you some fun facts about it",
+      "topics": [
+        "actions",
+        "carbon-emissions",
+        "ci",
+        "co2",
+        "ecology",
+        "planet",
+        "renewable-energy"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JCofman/vscodeaction",
+      "stars": 18,
+      "desc": "👩‍💻Uses vsce cli to publish a VScode plugins",
+      "topics": [
+        "github-actions",
+        "vsce",
+        "vscode-plugin"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CanarysAutomations/pr-update-work-item-state",
+      "stars": 17,
+      "desc": "Update work item state when pull request is merged",
+      "topics": [
+        "azure-devops",
+        "github-actions",
+        "pull-requests",
+        "work-items"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Chocobo1/setup-ccache-action",
+      "stars": 17,
+      "desc": "Setup ccache easily in your workflow, with all the tuning knobs you need!",
+      "topics": [
+        "caching",
+        "ccache",
+        "cpp",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Cloudzero/cloudzero-action-publish-costformation",
+      "stars": 17,
+      "desc": "This is a GitHub action to publish CostFormation definitions to the CloudZero platform.",
+      "topics": [],
+      "lang": "Makefile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CrowdStrike/container-image-scan-action",
+      "stars": 17,
+      "desc": "CrowdStrike Container Image Scan Github Action",
+      "topics": [
+        "cicd",
+        "containers",
+        "continuous-integration",
+        "security"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DanielYuki/poke-actions",
+      "stars": 17,
+      "desc": "Simple and fun github actions with pokemon :)",
+      "topics": [
+        "github-actions",
+        "pokemon"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DataDog/action-py-black-formatter",
+      "stars": 17,
+      "desc": "## Auto-archived due to inactivity. ## apply python code formatting standards",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Didstopia/SwiftAction",
+      "stars": 17,
+      "desc": "Swift support for GitHub Actions.",
+      "topics": [],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EndemicMedia/claudecoder",
+      "stars": 17,
+      "desc": "Automatically process pull requests using AWS Bedrock and Claude 3.7 to suggest code changes",
+      "topics": [
+        "actions",
+        "ai",
+        "automation",
+        "claude-ai",
+        "coding",
+        "pull-requests"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ExpediaGroup/spinnaker-pipeline-trigger",
+      "stars": 17,
+      "desc": "Pipeline trigger for Spinnaker utilizing SNS",
+      "topics": [
+        "actions",
+        "oss-portal-listed",
+        "spinnaker"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "KeisukeYamashita/auto-pull-request-merge",
+      "stars": 17,
+      "desc": "🌴  GitHub Action that automatically merges PRs",
+      "topics": [
+        "github-actions",
+        "merge",
+        "pull-requests",
+        "utilities"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "0xJord4n/aixion",
+      "stars": 16,
+      "desc": "A powerful GitHub Action that enables seamless integration with various AI providers, allowing you to enhance your workflows with artificial intelligence capabilities. Supporting multiple providers including OpenAI, Anthropic, Groq, Mistral, and more.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AnandChowdhary/readme-repos-list",
+      "stars": 16,
+      "desc": "🖇️ GitHub Action to list repositories in a README",
+      "topics": [
+        "automation",
+        "github-actions",
+        "nodejs",
+        "readme",
+        "readme-md",
+        "typescript"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/use-kubelogin",
+      "stars": 16,
+      "desc": "Setup kubelogin in GitHub Actions",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BDSI-Utwente/shinyapps-deploy-github-action",
+      "stars": 16,
+      "desc": "",
+      "topics": [],
+      "lang": "R",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BSFishy/pip-action",
+      "stars": 16,
+      "desc": "Github Action to install Pip packages",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ChristophWurst/xmllint-action",
+      "stars": 16,
+      "desc": "Github action for xmllint",
+      "topics": [
+        "cd",
+        "ci",
+        "cicd",
+        "docker",
+        "github-action",
+        "github-actions",
+        "xml",
+        "xmllint"
+      ],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ChromaticHQ/platformsh-db-dump-s3-sync-action",
+      "stars": 16,
+      "desc": "Platform.sh Database Backup and S3 Sync",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CoinFabrik/scout-actions",
+      "stars": 16,
+      "desc": "Scout is an extensible open-source tool intended to assist smart contract developers and auditors detect common security issues and deviations from best practices. This GitHub Action allows you to incorporate Scout's analysis into every Pull Request.",
+      "topics": [
+        "audit",
+        "auditing",
+        "blockchain",
+        "ink",
+        "rust",
+        "security",
+        "smart-contract",
+        "soroban",
+        "static-analysis",
+        "vulnerability-detection"
+      ],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CompeyDev/discord-status-action",
+      "stars": 16,
+      "desc": "GitHub action to update your discord status in a file using the Lanyard API.",
+      "topics": [
+        "api",
+        "discord",
+        "git",
+        "lanyard",
+        "status"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CondeNast/conventional-pull-request-action",
+      "stars": 16,
+      "desc": "Lint pull requests with the conventional commit spec, for a clean and conventional commit history",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CumulusDS/get-yaml-paths-action",
+      "stars": 16,
+      "desc": "A GitHub Action to access deep values of YAML files",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Cyb3r-Jak3/actions-cloudflare-pages",
+      "stars": 16,
+      "desc": "Github Action for deploying to Cloudflare pages when needed.",
+      "topics": [
+        "cloudflare-api",
+        "github-actions",
+        "typescript-action"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Dank-del/flutter-build-and-publish-action",
+      "stars": 16,
+      "desc": "Build a Flutter Android APK and upload it as a workflow artifact",
+      "topics": [
+        "android",
+        "apk",
+        "ci-cd",
+        "flutter",
+        "github-actions"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Defend-AI-Tech-Inc/agent-discover-scanner",
+      "stars": 16,
+      "desc": "The industry-standard Agentic Identity \u0026 Inventory Scanner. Automatically inventory autonomous agents (LangChain, AutoGen, CrewAI, PydanticAI) using static analysis, network heuristics, and eBPF. Foundational tool for AIBOM compliance and AgentOps governance.",
+      "topics": [
+        "agent-ops",
+        "agentic-governance",
+        "ai-native",
+        "ai-security",
+        "aibom",
+        "autogen",
+        "autonomous-agents",
+        "crewai",
+        "cybersecurity",
+        "devsecops",
+        "ebpf",
+        "identity-management",
+        "kubernetes-security",
+        "langchain",
+        "mcp-security",
+        "pydantic-ai",
+        "runtime-observability",
+        "security-scanner",
+        "shadow-ai",
+        "zero-trust"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Geertvdc/setup-hub",
+      "stars": 16,
+      "desc": "Github Action to set up hub CLI",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Ilshidur/action-mercure",
+      "stars": 16,
+      "desc": "🚀 GitHub Action for Mercure.",
+      "topics": [
+        "live-updates",
+        "mercure",
+        "push",
+        "server-sent-events",
+        "subscription"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "14790897/auto-lock-baipiao",
+      "stars": 15,
+      "desc": "",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AlexAtkinson/github-action-gitops-autover",
+      "stars": 15,
+      "desc": "Automatically determine the semantic version based on merge history.",
+      "topics": [
+        "cicd",
+        "devops",
+        "devops-tools",
+        "devops-workflow",
+        "version-control",
+        "versioning"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AnimMouse/setup-ffmpeg",
+      "stars": 15,
+      "desc": "Setup/Install FFmpeg for GitHub Actions",
+      "topics": [
+        "action",
+        "actions",
+        "ffmpeg",
+        "github-actions"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Arisamiga/Linkedin-RSS",
+      "stars": 15,
+      "desc": "Post the latest post from your RSS Feed to your LinkedIn Profile",
+      "topics": [
+        "blog",
+        "blog-posts",
+        "blogging",
+        "blogs",
+        "easy-to-use",
+        "github-actions",
+        "github-workflow",
+        "linkedin",
+        "linkedin-api",
+        "linkedin-posts",
+        "linkedin-profile",
+        "publishing",
+        "rss",
+        "rss-feed",
+        "rss-feed-urls"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/AppConfiguration-Sync",
+      "stars": 15,
+      "desc": "GitHub action for importing configuration files to Azure App Configuration",
+      "topics": [
+        "azure-app-configuration"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BlueIntent/iOS-helper-action",
+      "stars": 15,
+      "desc": "Action for iOS developers to automate tedious tasks like swiftlint, pod-lib-lint, install, run, test.",
+      "topics": [
+        "build",
+        "build-jenkins",
+        "github-actions",
+        "github-workflows",
+        "ios"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Brand-Boosting-GmbH/shopify-theme-preview",
+      "stars": 15,
+      "desc": "This GitHub action creates a preview of a pull request for a Shopify store. Adding a simple comment in the corresponding pull request will trigger this action and creates links for a preview of the store and the shopify editor. ",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CodelyTV/no-pull-requests",
+      "stars": 15,
+      "desc": "🙅 GitHub Action to autoclose all Pull Requests",
+      "topics": [
+        "actions",
+        "github",
+        "github-action",
+        "github-actions",
+        "pull-request-action",
+        "pull-requests"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Doarakko/action-lgtmoon",
+      "stars": 15,
+      "desc": "Post LGTM image on GitHub Issue and Pull request using LGTMoon.",
+      "topics": [
+        "code-review",
+        "github",
+        "github-actions",
+        "lgtm"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Earu/GSW-action",
+      "stars": 15,
+      "desc": "A GitHub action that publishes your Garry's Mod addon to the Steam Workshop",
+      "topics": [
+        "action",
+        "garrysmod",
+        "github",
+        "github-actions",
+        "gmod",
+        "steam",
+        "steam-workshop",
+        "workshop"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FabianKoestring/body-regex-validator-action",
+      "stars": 15,
+      "desc": "This Action checks issue and pull-request descriptions against an regular expression. This can be used to check if the description met your Github template files.",
+      "topics": [
+        "github",
+        "github-actions",
+        "guidelines",
+        "issues",
+        "pull-requests",
+        "regular-expression",
+        "template"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FragileTech/bump-version",
+      "stars": 15,
+      "desc": "GitHub Action to bump the version of a Python package.",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GoldenspearLLC/build-jenkins-job",
+      "stars": 15,
+      "desc": "Action to trigger and build a jenkins job from github workflow",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JantHsueh/get-apk-info-action",
+      "stars": 15,
+      "desc": "Get apk information",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JantHsueh/upload-file-action",
+      "stars": 15,
+      "desc": "Upload file via http request. ",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Keeper-Security/ksm-action",
+      "stars": 15,
+      "desc": "Keeper Secrets Manager Github Action",
+      "topics": [
+        "github-actions",
+        "keeper-secret-manager"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "417-72KI/danger-swiftlint",
+      "stars": 14,
+      "desc": "Docker image for Danger-Swift using SwiftLint",
+      "topics": [
+        "danger",
+        "danger-swift",
+        "docker-image",
+        "github-actions",
+        "swift",
+        "swiftlint"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Akryum/release-tag",
+      "stars": 14,
+      "desc": "GitHub action for auto creating a release on tag push with conventional changelog",
+      "topics": [
+        "action",
+        "conventional-commits",
+        "release"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AnandChowdhary/twitter-list-sync",
+      "stars": 14,
+      "desc": "🐦 Sync your Twitter followers/following to Lists",
+      "topics": [
+        "github-actions",
+        "twitter",
+        "twitter-api",
+        "typescript"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Axosoft/glo-action-move-card",
+      "stars": 14,
+      "desc": "GitHub action to move Glo Boards cards to a column",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/bicep-build-action",
+      "stars": 14,
+      "desc": "GitHub Action for building an ARM Template from Bicep",
+      "topics": [
+        "arm-templates",
+        "azure",
+        "bicep",
+        "github-actions"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "C-Naoki/zenn-qiita-sync",
+      "stars": 14,
+      "desc": "Automatically convert Zenn format articles to Qiita ones via GitHub Actions.",
+      "topics": [
+        "articles",
+        "blogs",
+        "github-actions",
+        "qiita",
+        "zenn"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ChloePlanet/github-tag-action",
+      "stars": 14,
+      "desc": "A Github Action to tag a repo on merge with specified message",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ClearTax/pivotal-lint",
+      "stars": 14,
+      "desc": "Checks for pivotal story in pull requests and adds label based on the pivotal board name",
+      "topics": [
+        "actions",
+        "github-actions",
+        "pivotal",
+        "pivotal-tracker",
+        "pr-lint",
+        "pull-requests"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FinalCAD/auto-pull-translation",
+      "stars": 14,
+      "desc": "Github Action to auto pull translation on Phrase",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JamieMason/syncpack-github-action",
+      "stars": 14,
+      "desc": "A GitHub Action to synchronise monorepo dependency versions with syncpack.",
+      "topics": [
+        "dependencies",
+        "github-actions",
+        "lerna",
+        "monorepo",
+        "npm",
+        "pnpm",
+        "semver",
+        "versions",
+        "workspaces",
+        "yarn"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Jerome1337/gofmt-action",
+      "stars": 14,
+      "desc": "Ready to use gofmt GitHub action",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JoshPiper/GModStore-Deployment",
+      "stars": 14,
+      "desc": "GitHub Action for deploying to GModStore.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JoshPiper/deployment-for-gmodstore",
+      "stars": 14,
+      "desc": "GitHub Action for deploying to GModStore.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "KeyValueSoftwareSystems/action-ecr-image-scan",
+      "stars": 14,
+      "desc": "Github Action to scan docker images",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "1natsu172/github-action-auto-card-assign",
+      "stars": 13,
+      "desc": "Assign appropriate assignees by column to card on github projects",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AlexShukel/get-changed-workspaces-action",
+      "stars": 13,
+      "desc": "This action finds all workspaces in monorepo that has changed files.",
+      "topics": [
+        "actions",
+        "changes",
+        "github-actions",
+        "monorepo",
+        "npm",
+        "workspace",
+        "workspaces"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AnandChowdhary/notes-summary",
+      "stars": 13,
+      "desc": "🗒️ Generate a README.md summary \u0026 JSON API from your markdown repository",
+      "topics": [
+        "github-actions",
+        "readme",
+        "readme-generator"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AnimMouse/tool-cache",
+      "stars": 13,
+      "desc": "Implementation of Tool Cache in composite GitHub Actions",
+      "topics": [
+        "action",
+        "actions",
+        "github-actions",
+        "tool-cache"
+      ],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AustinMcGuinn/react-native-build-ios",
+      "stars": 13,
+      "desc": "GitHub Action to build React Native iOS app and publish to Testflight",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/microsoft-365-certification-quick-evaluation",
+      "stars": 13,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Codeinwp/action-wordpress-theme-deploy",
+      "stars": 13,
+      "desc": "Deploy your theme to the WordPress.org repository using GitHub Actions ",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DataDog/agent-github-action",
+      "stars": 13,
+      "desc": "GitHub Action to start and gracefully stop the Datadog agent during CI",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DataDog/datadog-static-analyzer-github-action",
+      "stars": 13,
+      "desc": "",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DevGlitch/alembic-migration-checker",
+      "stars": 13,
+      "desc": "A GitHub Action to automate Alembic database migration checks for PostgreSQL, MySQL, and SQLite in CI/CD workflows",
+      "topics": [
+        "alembic",
+        "github-actions",
+        "migration",
+        "mysql",
+        "postgresql",
+        "sqlite"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EmergeTools/emerge-upload-action",
+      "stars": 13,
+      "desc": "Github Action to upload an artifact to Emerge.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FX31337/MQL-Compile-Action",
+      "stars": 13,
+      "desc": "Compiles MQL programs via GitHub Actions",
+      "topics": [
+        "compile",
+        "forex",
+        "github-actions",
+        "metatrader",
+        "mql"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Frederick888/gh-ph",
+      "stars": 13,
+      "desc": "`gh-ph` is a GitHub CLI extension and a GitHub Action that puts commit history into your pull request description",
+      "topics": [
+        "gh-extension",
+        "github-actions",
+        "pull-requests"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GlobalAppTesting/gat-actions-request-test",
+      "stars": 13,
+      "desc": "",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GlueOps/github-actions-build-push-containers",
+      "stars": 13,
+      "desc": "",
+      "topics": [],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GreatWizard/coverage-diff-action",
+      "stars": 13,
+      "desc": "Publish diff coverage report as PR comment, and create a coverage badge to display on the readme.",
+      "topics": [
+        "angular",
+        "angularjs",
+        "badge",
+        "coverage",
+        "diff",
+        "ember",
+        "emberjs",
+        "github-action",
+        "istanbul",
+        "jest",
+        "json-summary",
+        "react",
+        "reactjs",
+        "vue",
+        "vuejs"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HarshCasper/validate-issues-over-pull-requests",
+      "stars": 13,
+      "desc": "GitHub Action to validate submitted Pull Requests to check if they contain a valid Issue 👀",
+      "topics": [
+        "community-management",
+        "github-actions",
+        "issue-management",
+        "open-source-management",
+        "pull-request-management"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HeRoMo/pronto-action",
+      "stars": 13,
+      "desc": "A Github action to run pronto.",
+      "topics": [
+        "github-actions",
+        "pronto",
+        "pronto-action"
+      ],
+      "lang": "Ruby",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Helixar-AI/Unpinched",
+      "stars": 13,
+      "desc": "You've been pinched. Now get unpinched. Find out if PinchTab is running on your host before someone else does.",
+      "topics": [
+        "agentic-ai",
+        "ai-security",
+        "browser-security",
+        "cdp",
+        "chrome-devtools-protocol",
+        "cli",
+        "endpoint-security",
+        "forensics",
+        "github-action",
+        "golang",
+        "malware-detection",
+        "pinchtab",
+        "security",
+        "threat-detection"
+      ],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JasonEtco/smee-action",
+      "stars": 13,
+      "desc": "🔴📜 Use smee.io to debug GitHub Action runs",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ArcticLampyrid/action-wait-for-workflow",
+      "stars": 12,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AtomGraph/RDF-syntax-check",
+      "stars": 12,
+      "desc": "GitHub action that validates the syntax of selected RDF files in the repository",
+      "topics": [
+        "linked-data",
+        "rdf",
+        "semantic-web"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AveryCameronUofR/add-reviewer-gh-action",
+      "stars": 12,
+      "desc": "GitHub Action to add reviewer(s) to a pull request.",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/setup-azd",
+      "stars": 12,
+      "desc": "This GitHub Action allows you to provision resources and deploy your application on Azure with Azure Developer CLI commands. The action installs the Azure Developer CLI on a user-defined Azure Developer CLI version. If the user does not specify a version, latest CLI version is used.",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Bardavon-Health/actions-aws-ssm-params-to-env",
+      "stars": 12,
+      "desc": "A github action to Convert SSM parameters to environment variables with support for JSON parameters",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BeksOmega/jules-action",
+      "stars": 12,
+      "desc": "Start sessions on jules.google.com from GitHub workflows",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BenjaminMichaelis/get-soonest-available-runner",
+      "stars": 12,
+      "desc": "",
+      "topics": [],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ChiefGokhlayeh/textidote-action",
+      "stars": 12,
+      "desc": "GitHub Action to lint, spell- and grammar-check LaTeX documents using TeXtidote.",
+      "topics": [
+        "github-actions",
+        "latex",
+        "spell-check",
+        "textidote"
+      ],
+      "lang": "TeX",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CommonMarvel/google-chat-notification",
+      "stars": 12,
+      "desc": "Sends a Google Chat notification.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Contrast-Security-OSS/contrast-sca-action",
+      "stars": 12,
+      "desc": "Contrast SCA GitHub Action",
+      "topics": [
+        "sca"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CycloneDX/gh-gomod-generate-sbom",
+      "stars": 12,
+      "desc": "GitHub action to generate a CycloneDX SBOM for Go modules",
+      "topics": [
+        "bill-of-materials",
+        "bom",
+        "cyclonedx",
+        "github-action",
+        "go",
+        "gomod",
+        "owasp",
+        "sbom-generator",
+        "software-bill-of-materials"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DaanV2/Markdown-Action-Create-Indexes",
+      "stars": 12,
+      "desc": "The github action that creates index pages for your project, the changes still need to be submitted afterwards",
+      "topics": [
+        "action",
+        "github",
+        "github-action",
+        "github-actions",
+        "index",
+        "markdown"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DataDog/upload-dsyms-github-action",
+      "stars": 12,
+      "desc": "Github Action to upload iOS dSYM files using datadog-ci tool.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DevOps-Nirvana/aws-helm-multi-deploy",
+      "stars": 12,
+      "desc": "Deploys all helm chart folders inside the 'deployment' folder in the root of a repository.",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Embraser01/update-git-branch-action",
+      "stars": 12,
+      "desc": "Action to update a branch based on the current commit",
+      "topics": [
+        "github-actions",
+        "workflow"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EthanSK/git-branch-name-action",
+      "stars": 12,
+      "desc": "Gets the current git branch name of the running action for both pull_request and push triggers.",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ExitoLab/packer-build-action",
+      "stars": 12,
+      "desc": "Github action for running packer build on AWS",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FidelusAleksander/prompt-action",
+      "stars": 12,
+      "desc": "GitHub Action to prompt GitHub Models about... well, anything!",
+      "topics": [
+        "ai",
+        "github-actions",
+        "models"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Firehed/multistage-docker-build-action",
+      "stars": 12,
+      "desc": "Github Action for optimized multi-stage docker builds",
+      "topics": [
+        "actions",
+        "docker",
+        "github-actions"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GenieTim/ftp-action",
+      "stars": 12,
+      "desc": "Automate copying your files via FTP using this GitHub action.",
+      "topics": [
+        "deployment",
+        "ftp",
+        "github-action"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HCL-TECH-SOFTWARE/appscan-sast-action",
+      "stars": 12,
+      "desc": "Integrate static security testing with HCL AppScan on Cloud using GitHub Actions",
+      "topics": [
+        "action",
+        "appscan",
+        "github",
+        "github-actions",
+        "sast",
+        "scanning",
+        "security",
+        "security-automation",
+        "security-scanner",
+        "security-testing",
+        "security-tools"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HeytalePazguato/plc-st-review",
+      "stars": 12,
+      "desc": "Deterministic semantic linter and PR reviewer for IEC 61131-3 Structured Text. 80 checks across diff-based, static integrity, FB-instance, PLCopen, MISRA-C, IEC 61508/62443 mappings. Plus --metrics mode (complexity, nesting, dead code). CI-native, vendor-neutral, no LLM. Runs as a GitHub Action, GitLab CI job, or local CLI.",
+      "topics": [
+        "ci",
+        "code-review",
+        "codesys",
+        "cybersecurity",
+        "github-actions",
+        "gitlab-ci",
+        "iec61131-3",
+        "iec61508",
+        "iec62443",
+        "industrial-automation",
+        "linter",
+        "misra-c",
+        "plc",
+        "plc-programming",
+        "plcopen",
+        "pull-request",
+        "static-analysis",
+        "structured-text",
+        "tree-sitter",
+        "twincat"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JieDing/github-followers-action",
+      "stars": 12,
+      "desc": "A GitHub Action ranks your followers according to different criteria(number of their followers, credits of their repos, number of their contributions and number of people they're following). It also renders those data into HTML elements so that those ranked followers can be easily displayed in your GitHub profile.",
+      "topics": [],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "1aron/techor",
+      "stars": 11,
+      "desc": "A monorepo framework integrating first-class packages and build systems",
+      "topics": [
+        "authoring",
+        "config",
+        "log",
+        "technology"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AbleLincoln/push-to-sftp",
+      "stars": 11,
+      "desc": "Uploads to server via SFTP on push",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Acacian/aegis",
+      "stars": 11,
+      "desc": "LLM guardrails \u0026 prompt injection detection for Python. Auto-instruments LangChain, CrewAI, OpenAI, LiteLLM + 8 more frameworks. PII masking, toxicity detection, policy CI/CD. One line, zero code changes.",
+      "topics": [
+        "agent-security",
+        "ai-agent-security",
+        "ai-agents",
+        "ai-governance",
+        "ai-safety",
+        "ai-security",
+        "audit-trail",
+        "compliance",
+        "guardrails",
+        "langchain",
+        "llm-security",
+        "mcp",
+        "mcp-security",
+        "model-context-protocol",
+        "pii-detection",
+        "policy-as-code",
+        "policy-engine",
+        "policy-testing",
+        "prompt-injection",
+        "selection-governance"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AnarkisGaming/workshop",
+      "stars": 11,
+      "desc": "A GitHub Action to upload items to the Steam Workshop",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AnimMouse/setup-youtube-dl",
+      "stars": 11,
+      "desc": "Setup/Install youtube-dl for GitHub Actions",
+      "topics": [],
+      "lang": "PowerShell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Auditware/radar-action",
+      "stars": 11,
+      "desc": "GitHub Action for radar - a static analysis tool for rust, anchor, stylus, and solidity smart contracts.",
+      "topics": [
+        "anchor",
+        "rust",
+        "smart-contracts",
+        "solana",
+        "solidity",
+        "static-analysis",
+        "stylus"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AutomateLab-tech/n8n-mcp",
+      "stars": 11,
+      "desc": "Debugging-first MCP server for n8n. Tools for workflow generation, linting, per-node execution diagnosis, and driving live n8n instances. Built for AI agents.",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "ai-tools",
+        "claude",
+        "claude-code-plugin",
+        "mcp",
+        "model-context-protocol",
+        "n8n",
+        "n8n-mcp",
+        "typescript",
+        "workflow-automation"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/mysql",
+      "stars": 11,
+      "desc": "Automate your GitHub workflows using Azure Action for MySQL",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/spring-apps-deploy",
+      "stars": 11,
+      "desc": "GitHub Actions to deploy to Azure Spring Cloud",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BramKelchtermans/portainer-deploy-action",
+      "stars": 11,
+      "desc": "",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "BrianPugh/install-micropython",
+      "stars": 11,
+      "desc": "Github Action to install micropython.",
+      "topics": [
+        "action",
+        "ci",
+        "micropython",
+        "mpy-cross"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CallePuzzle/envvar-to-dotenv-action",
+      "stars": 11,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ClementTsang/cargo-action",
+      "stars": 11,
+      "desc": "A simple GitHub Action to invoke cargo/cross.",
+      "topics": [],
+      "lang": "Rust",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CodelyTV/no-branches",
+      "stars": 11,
+      "desc": "🕊 GitHub Action to autoremove all branches",
+      "topics": [
+        "actions",
+        "branching",
+        "git",
+        "github",
+        "github-action",
+        "github-actions"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CouscousPHP/GitHub-Action",
+      "stars": 11,
+      "desc": "GitHub Action to generate websites with Couscous",
+      "topics": [
+        "couscous",
+        "github-actions"
+      ],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CycloneDX/cdxgen-action",
+      "stars": 11,
+      "desc": "GitHub action for CycloneDX BOM generator (cdxgen). cdxgen produced bom xml file can be uploaded to dependency track, AppThreat and other commercial Software Composition Analysis (SCA) products",
+      "topics": [
+        "bom",
+        "cdxgen",
+        "github",
+        "sca"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DNSZLSK/muad-dib",
+      "stars": 11,
+      "desc": "Real-time npm/PyPI supply-chain threat detection. Behavioral chain analysis, AST scanning, IOC feeds, and compound scoring engine.",
+      "topics": [
+        "ast",
+        "dependency-scanner",
+        "malware",
+        "mitre-attack",
+        "npm",
+        "pypi",
+        "python",
+        "sarif",
+        "scanner",
+        "security",
+        "shai-hulud",
+        "shai-hulud2",
+        "supply-chain",
+        "supply-chain-security",
+        "typosquatting"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DavidS/jekyll-deploy",
+      "stars": 11,
+      "desc": "Builds and deploys a jekyll page to GitHub pages",
+      "topics": [],
+      "lang": "Ruby",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DelineaXPM/dsv-github-action",
+      "stars": 11,
+      "desc": "A GitHub action integrating with Delinea DevOps Secrets Vault.",
+      "topics": [
+        "github-actions"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Dhaiwat10/repo-backup-arweave",
+      "stars": 11,
+      "desc": "(WIP) A GitHub action that backs up your repo's source code to Arweave.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Doradx/notion-blog-actions",
+      "stars": 11,
+      "desc": "convert notion database pages to markdown files for hexo or hugo",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Doradx/notion2markdown-action",
+      "stars": 11,
+      "desc": "convert notion database pages to markdown files for hexo or hugo",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "EpicStep/clickhouse-github-action",
+      "stars": 11,
+      "desc": "ClickHouse in GitHub Actions",
+      "topics": [
+        "actions",
+        "clickhouse",
+        "github-actions",
+        "hacktoberfest"
+      ],
+      "lang": "Go",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Eun/http-server-action",
+      "stars": 11,
+      "desc": "An action that spawns an http server to serve files.",
+      "topics": [
+        "actions",
+        "github-actions",
+        "hacktoberfest"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Fork-on-the-Table-Collective/UE5-build-action",
+      "stars": 11,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FrostBanditTeam/extract-unity-package-action",
+      "stars": 11,
+      "desc": "",
+      "topics": [],
+      "lang": "C#",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Fzwael/ncu-action",
+      "stars": 11,
+      "desc": "⬆️ An action to automatically check if your npm modules should be updated.",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GuillaumeFalourd/setup-rsync",
+      "stars": 11,
+      "desc": "Github Actions to setup rsync (all os supported) 🔄",
+      "topics": [
+        "all-os-supported",
+        "github-actions",
+        "rsync"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Hebilicious/reproduire",
+      "stars": 11,
+      "desc": "Github Action that comments on incomplete issues.",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JackMcKew/python-interrogate-check",
+      "stars": 11,
+      "desc": "GitHub Action for use with python package interrogate",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JacobDomagala/CompileResult",
+      "stars": 11,
+      "desc": "Github action for adding compile warnings/errors as PR comment.",
+      "topics": [
+        "build",
+        "comments",
+        "compile",
+        "cpp",
+        "github-action",
+        "github-actions",
+        "pr-comment",
+        "pull-requests"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Jebel-Quant/marimushka",
+      "stars": 11,
+      "desc": "Export marimo notebooks in style",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "1arp/create-a-file-action",
+      "stars": 10,
+      "desc": "A github action to create a file in your github workflow.",
+      "topics": [
+        "action",
+        "actions",
+        "cd",
+        "ci",
+        "ci-cd",
+        "ci-cd-pipeline",
+        "continuous-delivery",
+        "devops",
+        "devops-tools",
+        "github-action",
+        "github-actions",
+        "workflow"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "ActionsDesk/report-action-usage",
+      "stars": 10,
+      "desc": "Action to create a CSV or Markdown report of GitHub Actions used",
+      "topics": [
+        "github-actions",
+        "reporting"
+      ],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AlbertHernandez/branch-name-action",
+      "stars": 10,
+      "desc": "Check if the branch name is following a convention name",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AlexStormwood/UnityAutomatedSemver",
+      "stars": 10,
+      "desc": "Action to increment relevant version numbers in a Unity project in your Github Action workflows.",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AnandChowdhary/deploy-pr-action",
+      "stars": 10,
+      "desc": "🚀🎬 GitHub Action to deploy every pull request to a static URL on Surge.sh",
+      "topics": [
+        "deployment",
+        "github-action",
+        "nodejs",
+        "surge",
+        "surge-sh",
+        "typescript"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "AppThreat/sast-scan-action",
+      "stars": 10,
+      "desc": "GitHub action for performing SAST scanning using various oss tools such as gitleaks, bandit, findsecbugs etc",
+      "topics": [
+        "github",
+        "oss",
+        "sast"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Axosoft/glo-action-label-card",
+      "stars": 10,
+      "desc": "GitHub action to add a label to a Glo Boards card",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/apim-policy-update",
+      "stars": 10,
+      "desc": "",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Azure/publish-security-assessments",
+      "stars": 10,
+      "desc": "This action can be used to publish security scans done as part of CI/CD on Github to Azure Security Center.",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CatChen/oxlint-suggestion-action",
+      "stars": 10,
+      "desc": "This GitHub Action runs Oxlint and provides inline feedback to the changes in a Pull Request.",
+      "topics": [],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "CodeBoarding/CodeBoarding-GHAction",
+      "stars": 10,
+      "desc": "",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DanySK/compile-latex-action",
+      "stars": 10,
+      "desc": "A GitHub Action that compiles all LaTeX documents in one shot, automatically, with minimal configuration",
+      "topics": [],
+      "lang": "Ruby",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "DataDog/junit-upload-github-action",
+      "stars": 10,
+      "desc": "GitHub Action to Upload JunitXML files to Test Optimization",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Enchan1207/rpi-buildroot",
+      "stars": 10,
+      "desc": "Create custom image of Raspberry Pi",
+      "topics": [
+        "buildroot",
+        "github-actions",
+        "raspberry-pi"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FirelyTeam/firely-terminal-pipeline",
+      "stars": 10,
+      "desc": "Run Firely.Terminal as GitHub Actions",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Flydiverny/github-typescript",
+      "stars": 10,
+      "desc": "Write workflows scripting the GitHub API in TypeScript!",
+      "topics": [
+        "actions",
+        "github-api",
+        "javascript",
+        "typescript"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Fooji/create-aws-profile-action",
+      "stars": 10,
+      "desc": "A GitHub action to setup an AWS profile",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Frama-C/github-action-eva-sarif",
+      "stars": 10,
+      "desc": "Github Action for running the Eva plug-in and producing a SARIF report",
+      "topics": [
+        "frama-c"
+      ],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "FuelLabs/action-fuel-toolchain",
+      "stars": 10,
+      "desc": "🛠️ GitHub Action for `fuelup` commands",
+      "topics": [
+        "fuel",
+        "fuelup",
+        "github",
+        "github-actions",
+        "sway",
+        "toolchain"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GrantBirki/comment",
+      "stars": 10,
+      "desc": "GitHub Action to create, update, or add a reaction to any issue or pull request",
+      "topics": [
+        "actions",
+        "automation",
+        "comment",
+        "github"
+      ],
+      "lang": "TypeScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "GuillaumeFalourd/create-other-repo-branch-action",
+      "stars": 10,
+      "desc": "Github Action to create a new branch on another repository 🆕🚀",
+      "topics": [
+        "all-os-supported",
+        "branch",
+        "github-actions",
+        "hacktoberfest",
+        "remote-execution",
+        "repository",
+        "utilities"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HarryGogonis/docker-monorepo-action",
+      "stars": 10,
+      "desc": "Deploys multiple Dockerfile based on files changed in a monorepo",
+      "topics": [],
+      "lang": "Rust",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "HubSpot/hubspot-project-actions",
+      "stars": 10,
+      "desc": "",
+      "topics": [],
+      "lang": "Shell",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "IBM/cloudfoundry-deploy",
+      "stars": 10,
+      "desc": "GitHub action for deploying an application to IBM Cloud Foundry",
+      "topics": [
+        "action",
+        "cloud",
+        "foundry",
+        "github",
+        "ibm"
+      ],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JashwanthMU/TerraSecure",
+      "stars": 10,
+      "desc": "Prevent cloud misconfigurations and find vulnerabilities during build time in infrastructure as code, powered with XGBoost model.",
+      "topics": [
+        "aws",
+        "bedrock",
+        "devsecops",
+        "iac",
+        "infrastructure-as-code",
+        "llm-cluade3-haiku",
+        "misconfiguration",
+        "python3",
+        "security",
+        "security-tools",
+        "terraform",
+        "vulnerability",
+        "vulnerability-detection",
+        "vulnerability-scanners",
+        "xgboost-classifier"
+      ],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JimCronqvist/action-helm-chart-repo",
+      "stars": 10,
+      "desc": "Turn your repo with charts into a Helm Chart Registry using GitHub Container Registry (OCI-based)",
+      "topics": [],
+      "lang": "",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "JohnsonRan/nomore-spam",
+      "stars": 10,
+      "desc": "基于AI的GitHub Actions工具，自动检测并关闭垃圾Issue/PR，为有效Issue智能分类。",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "KMing-L/lying-docs",
+      "stars": 10,
+      "desc": "A trust layer for your repository.",
+      "topics": [],
+      "lang": "Python",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "KageKirin/get-csproj-version",
+      "stars": 10,
+      "desc": "GitHub action to retrieve a .csproj version",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Kang-Jacob-GitLB/action-release-apk",
+      "stars": 10,
+      "desc": "🕷 Build and Publish release APK from your Android project",
+      "topics": [],
+      "lang": "Dockerfile",
+      "major": "",
+      "tag": "",
+      "released": ""
+    },
+    {
+      "action": "Kaven-Universe/github-action-current-date-time",
+      "stars": 10,
+      "desc": "",
+      "topics": [],
+      "lang": "JavaScript",
+      "major": "",
+      "tag": "",
+      "released": ""
+    }
+  ]
+}
