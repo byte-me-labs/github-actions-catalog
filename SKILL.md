@@ -13,10 +13,10 @@ description: >
   lint action、部署 action、action 版本。
 ---
 
-# GitHub Actions Latest
+# GitHub Actions Catalog
 
-Fetch the latest release version of any GitHub Action and apply it to workflow
-files (`.github/workflows/*.yml`).
+A catalog of 4,600+ GitHub Actions — search by keyword, topic, or language,
+look up the latest release version, and upgrade your CI/CD workflows. Updated weekly.
 
 ## When to Use
 
@@ -34,8 +34,7 @@ The latest versions of **4,600+ GitHub Actions** (stars >= 10) are tracked in
 Marketplace validation dataset. **Always read this file first** before
 answering a version question — it is auto-refreshed weekly.
 
-The JSON is compact (one action per line) — you can also `grep` it directly
-without `jq`.
+Plain JSON — works with `jq` for structured queries or `grep` for quick searches.
 
 ## Workflow
 
